@@ -3,3 +3,5 @@ github_users:
 github_repos:
   - alacritty/alacritty
   - ibraheemdev/modern-unix
+  - ohmyzsh/ohmyzsh
+  - tmux/tmux
