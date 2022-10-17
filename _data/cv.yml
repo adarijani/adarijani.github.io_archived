@@ -3,30 +3,34 @@
   contents:
     - name: Full Name
       value: Ali Darijani
-    - name: Date of Birth
-      value: 21st of April, 1992
-    - name: Languages
-      value: English
+    - name: Email
+      value: <a href="mailto:ali.darijani.me@gmail.com"> ali.darijani.me@gmail.com </a> 
+    - name: Location
+      value: Aachen, Germnay
+#    - name: Date of Birth
+#      value: 21st of April, 1992
+#    - name: Languages
+#      value: English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: MSc
+      institution: <a href="https://www.rwth-aachen.de/go/id/a/?lidx=1"> RWTH Aachen University </a> 
+#      year:
+#      description:
+#        - Description 1.
+#        - Description 2.
+#        - title: Description 3.
+#          contents:
+#            - Sub-description 1.
+#            - Sub-description 2.
+    - title: BSc
+      institution: <a href="https://en.sharif.edu"> Sharif University of Technology, Tehran, Iran </a>
+#      year: 1900
+#      description:
+#        - Description 1.
+#        - Description 2.
 
 - title: Experience
   type: time_table
