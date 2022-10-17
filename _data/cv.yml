@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Ali Darijani
     - name: Date of Birth
-      value: 14th March 1879
+      value: 21st of April, 1992
     - name: Languages
-      value: English, German
+      value: English
 
 - title: Education
   type: time_table
@@ -71,27 +71,24 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+        - Full scholarship given by Ontario Tech University
+
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Machine and Deep Learning
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Model Aware Solutions
+        - Algorithm Unrolling
+    - title: Mathematical Image Processing
       items:
-        - Description 1.
-        - Description 2.
+        - PDE Based Methods
+        - Compression
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Jump Rope, Badminton.
