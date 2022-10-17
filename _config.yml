@@ -41,7 +41,7 @@ repo_theme_dark: dark           # https://github.com/anuraghazra/github-readme-s
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+#rss_icon: true
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -94,7 +94,7 @@ facebook_id: # your facebook id
 discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
-  Feel free to phone to email me:-)
+  Feel free to phone or email me:-)
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -126,9 +126,9 @@ disqus_shortname: al-folio # put your disqus shortname
 # External sources.
 # If you have blog posts published on medium.com or other exteranl sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+#external_sources:
+#  - name: medium.com
+#    rss_url: https://medium.com/@al-folio/feed
 
 # -----------------------------------------------------------------------------
 # Collections
