@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Master Student at <a href='https://www.rwth-aachen.de/go/id/a/?lidx=1'> RWTH Aachen University </a>, <a href='https://goo.gl/maps/k26ohyjwZuf9Vt949'> Aachen, Germany </a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p> <a href='mailto:ali.darijani.me@gmail.com'> ali.darijani.me@gmail.com </a> </p>
+    <p> <a href='tel:+4917642743283'> +4917642743283 </a> </p>
+    <p> <a href='https://goo.gl/maps/k26ohyjwZuf9Vt949'> Aachen, Germany </a> </p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
