@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /useful papers/
-title: useful papers
+permalink: /impactful papers/
+title: impactful papers
 description: Impactfull papers that I found interesting.
 years: [1998]
 nav: true
