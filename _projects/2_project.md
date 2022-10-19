@@ -1,9 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
-importance: 2
+title: Personal Web Page
+description: Link to Personal Web Page GitHub
+img: assets/img/prof_pic.jpg
+redirect: https://github.com/adarijani
+importance: 3
 category: work
 ---
 
