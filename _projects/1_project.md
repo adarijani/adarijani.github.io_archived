@@ -2,7 +2,7 @@
 layout: page
 title: Math & CS References
 description: All Math and CS Books I found Interesting
-img: assets/img/linear_algebra_cover.jpg
+img: assets/img/math_cs_references.jpg
 importance: 1
 category: work
 ---
