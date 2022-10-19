@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-10-18 11:05:00-0400
+date: 2015-09-22 00:00:00-0400
 inline: true
 ---
 
-Start editing the announcement.
+Launching Tara elementary school.
