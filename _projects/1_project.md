@@ -28,6 +28,10 @@ category: work
 
 [Probability with Applications in Engineering, Science, and Technology by Carlton](https://link.springer.com/book/10.1007/978-3-319-52401-6)  
 
+### Statistics
+
+[Foundations of Statistics for Data Scientists by Agresti](https://www.routledge.com/Foundations-of-Statistics-for-Data-Scientists-With-R-and-Python/Agresti-Kateri/p/book/9780367748456)  
+
 ### Unix Like Systems
 
 [Linux Essentials by Linux Professional Institute](https://learning.lpi.org/pdfstore/LPI-Learning-Material-010-160-en.pdf)  
