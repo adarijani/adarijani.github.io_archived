@@ -92,6 +92,17 @@
         - PDE Based Methods
         - Compression
 
+- title: Courses
+  type: nested_list
+  contents:
+    - title: Math
+      items:
+        - ...
+    - title: Computer Science
+      items:
+        - High Performance Computing for Science and Engineering I/II(HPCSE I/II)(ETH)
+        -  ...
+
 - title: Other Interests
   type: list
   contents:
