@@ -14,8 +14,8 @@ category: work
 
 ### Linear Algebra
 
-[Linear Algebra by Kluas Janich](https://link.springer.com/book/10.1007/978-1-4612-4298-7)  
-
+[Linear Algebra by Klaus Janich](https://link.springer.com/book/10.1007/978-1-4612-4298-7)  
+ 
 ### Numerical Linear Algebra
 
 [Numerical Linear Algebra by Lloyd Trefethen](https://my.siam.org/Store/Product/viewproduct/?ProductId=950)  
@@ -36,4 +36,3 @@ category: work
 [LPIC-1 Exam 101 by Linux Professional Institute](https://learning.lpi.org/pdfstore/LPI-Learning-Material-101-500-en.pdf)  
 [LPIC-1 Exam 102 by Linux Professional Institute](https://learning.lpi.org/pdfstore/LPI-Learning-Material-102-500-en.pdf)  
 
-[]: # (aveveqr)
