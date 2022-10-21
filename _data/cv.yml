@@ -97,10 +97,15 @@
   contents:
     - title: Math
       items:
+#        - Analysis I/II/III(ETH)
+#        - Numerical Analysis I/II(ETH)
+#        - Numerical Analysis for Elliptic and Parabolic Partial Differential Equations(ETH)
+#        - Numerical Methods for Hyperbolic Partial Differential Equations(ETH)
+#        - Linear Algebra I/II(ETH)
         - ...
     - title: Computer Science
       items:
-        - High Performance Computing for Science and Engineering I/II(HPCSE I/II)(ETH)
+#        - High Performance Computing for Science and Engineering I/II(HPCSE I/II)(ETH)
         -  ...
 
 - title: Other Interests

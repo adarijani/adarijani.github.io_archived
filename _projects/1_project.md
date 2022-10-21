@@ -14,9 +14,7 @@ category: work
 
 ### Linear Algebra
 
-[Introduction to Linear Algebra by Serge Lang](https://link.springer.com/book/10.1007/978-1-4612-1070-2)  
-[Linear Algebra by Serge Lang](https://link.springer.com/book/10.1007/978-1-4757-1949-9)  
-[Linear Algebra by Lax](https://www.wiley.com/en-br/Linear+Algebra+and+Its+Applications,+2nd+Edition-p-9780471751564)  
+[Linear Algebra by Kluas Janich](https://link.springer.com/book/10.1007/978-1-4612-4298-7)  
 
 ### Numerical Linear Algebra
 
@@ -38,4 +36,4 @@ category: work
 [LPIC-1 Exam 101 by Linux Professional Institute](https://learning.lpi.org/pdfstore/LPI-Learning-Material-101-500-en.pdf)  
 [LPIC-1 Exam 102 by Linux Professional Institute](https://learning.lpi.org/pdfstore/LPI-Learning-Material-102-500-en.pdf)  
 
-
+[]: # (aveveqr)
