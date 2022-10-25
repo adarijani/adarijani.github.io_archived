@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Personal Web Page
-description: Link to Personal Web Page GitHub
+description: Link to the Personal Web Page Source Code on GitHub
 img: assets/img/prof_pic.jpg
 redirect: https://github.com/adarijani/adarijani.github.io
 importance: 3
