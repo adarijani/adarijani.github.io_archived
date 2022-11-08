@@ -20,6 +20,4 @@ social: true # includes social icons at the bottom of the page
 
 Mechanical Engineer turned Simulation Scientist turned ML Engineer. Generally interested in Numerical Math be it deterministic or stochastic and implementation in a high-performance fashion. Likes [Darwin](https://en.wikipedia.org/wiki/Darwin_operating_system) and in turn [MacBooks](https://www.apple.com/mac/), [zsh](https://www.zsh.org), [vim](https://www.vim.org), [tmux](https://github.com/tmux/tmux/wiki) for handling the workflow.  
 
-##### [Unix-like Learning Path](https://github.com/adarijani/learning_paths/blob/main/unix.md)  
-##### [Math Learning Path](https://github.com/adarijani/learning_paths/blob/main/math.md)  
 
