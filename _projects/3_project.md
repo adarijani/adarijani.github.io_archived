@@ -3,7 +3,7 @@ layout: page
 title: Asiakadeh Ecotourism Resort
 description: Our Story
 img: assets/img/asiakadeh.jpg
-importance: 1
+importance: 3
 category: work
 ---
 
