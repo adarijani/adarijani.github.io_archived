@@ -20,12 +20,20 @@ social: true # includes social icons at the bottom of the page
 
 Mechanical Engineer turned Simulation Scientist turned ML Engineer. Generally interested in Numerical Math be it deterministic or stochastic and implementation in a high-performance fashion. Likes [Darwin](https://en.wikipedia.org/wiki/Darwin_operating_system) and in turn [MacBooks](https://www.apple.com/mac/), [zsh](https://www.zsh.org), [vim](https://www.vim.org), [tmux](https://github.com/tmux/tmux/wiki) for handling the workflow. 
 ##### Short/Extended Resume
-[short](https://github.com/adarijani/adarijani.github.io/blob/master/assets/pdf/short_resume.pdf)  
-[extended](https://github.com/adarijani/adarijani.github.io/blob/master/assets/pdf/extended_resume.pdf)
-##### Exams/Certificates/Letters of Recommendation
-[TOEFL](https://github.com/adarijani/adarijani.github.io/blob/master/assets/pdf/TOEFL.pdf)  
-[GRE](https://github.com/adarijani/adarijani.github.io/blob/master/assets/pdf/GRE.pdf)  
-you can [get the PDF]({{ site.url }}/assets/pdf/short_resume.pdf) directly.
+[short resume]({{ site.url }}/assets/pdf/short_resume.pdf)
+[extended resume]({{ site.url }}/assets/pdf/extended_resume.pdf)  
+##### Programming Certificates
+[C++ by Dr. Klaus Iglberger]({{ site.url }}/assets/pdf/C++22.pdf)  
+[Kaggle(All)]({{ site.url }}/assets/pdf/kaggle.pdf)  
+##### English Certificates
+[TOEFL(Test of English as a Foreign Language)]({{ site.url }}/assets/pdf/TOEFL.pdf)  
+[GRE(Graduate Record Examinations)]({{ site.url }}/assets/pdf/GRE.pdf)  
+[CAE Preparation Course]({{ site.url }}/assets/pdf/english_certificate_c1_CAE_preparation_course.pdf)  
+[Advanced English for Academic Purposes]({{ site.url }}/assets/pdf/english_certificate_c1_advanced_academic_english.pdf)  
+##### Letters of Recommendation
+[Prof. Mohammad Behshad Shafii]({{ site.url }}/assets/pdf/letter_of_recommendation_01.pdf)  
+[Prof. Ali Moosavi]({{ site.url }}/assets/pdf/letter_of_recommendation_02.pdf)  
+#####
 
 
 
