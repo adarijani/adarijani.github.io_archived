@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 
 Mechanical Engineer turned Simulation Scientist turned ML Engineer. Generally interested in Numerical Math be it deterministic or stochastic and implementation in a high-performance fashion. Likes [Darwin](https://en.wikipedia.org/wiki/Darwin_operating_system) and in turn [MacBooks](https://www.apple.com/mac/), [zsh](https://www.zsh.org), [vim](https://www.vim.org), [tmux](https://github.com/tmux/tmux/wiki) for handling the workflow. 
 ##### Short/Extended Resume
-[short resume]({{ site.url }}/assets/pdf/short_resume.pdf)
+[short resume]({{ site.url }}/assets/pdf/short_resume.pdf)  
 [extended resume]({{ site.url }}/assets/pdf/extended_resume.pdf)  
 ##### Programming Certificates
 [C++ by Dr. Klaus Iglberger]({{ site.url }}/assets/pdf/C++22.pdf)  
@@ -33,7 +33,7 @@ Mechanical Engineer turned Simulation Scientist turned ML Engineer. Generally in
 ##### Letters of Recommendation
 [Prof. Mohammad Behshad Shafii]({{ site.url }}/assets/pdf/letter_of_recommendation_01.pdf)  
 [Prof. Ali Moosavi]({{ site.url }}/assets/pdf/letter_of_recommendation_02.pdf)  
-#####
+
 
 
 
