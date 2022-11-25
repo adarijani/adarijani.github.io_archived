@@ -26,13 +26,13 @@ Mechanical Engineer turned Simulation Scientist turned ML Engineer. Generally in
 [C++ by Dr. Klaus Iglberger]({{ site.url }}/assets/pdf/C++22.pdf)  
 [Kaggle(All)]({{ site.url }}/assets/pdf/kaggle.pdf)  
 ##### English Certificates
-[TOEFL(Test of English as a Foreign Language)]({{ site.url }}/assets/pdf/TOEFL.pdf)  
-[GRE(Graduate Record Examinations)]({{ site.url }}/assets/pdf/GRE.pdf)  
-[CAE Preparation Course]({{ site.url }}/assets/pdf/english_certificate_c1_CAE_preparation_course.pdf)  
-[Advanced English for Academic Purposes]({{ site.url }}/assets/pdf/english_certificate_c1_advanced_academic_english.pdf)  
+[TOEFL(Test of English as a Foreign Language) by ETS]({{ site.url }}/assets/pdf/TOEFL.pdf)  
+[GRE(Graduate Record Examinations) by ETS]({{ site.url }}/assets/pdf/GRE.pdf)  
+[CAE Preparation Course by RWTH Aachen University]({{ site.url }}/assets/pdf/english_certificate_c1_CAE_preparation_course.pdf)  
+[Advanced English for Academic Purposes by RWTH Aachen University]({{ site.url }}/assets/pdf/english_certificate_c1_advanced_academic_english.pdf)  
 ##### Letters of Recommendation
-[Prof. Mohammad Behshad Shafii]({{ site.url }}/assets/pdf/letter_of_recommendation_01.pdf)  
-[Prof. Ali Moosavi]({{ site.url }}/assets/pdf/letter_of_recommendation_02.pdf)  
+[Prof. Mohammad Behshad Shafii of Sharif University of Technology]({{ site.url }}/assets/pdf/letter_of_recommendation_01.pdf)  
+[Prof. Ali Moosavi of Sharif University of Technology]({{ site.url }}/assets/pdf/letter_of_recommendation_02.pdf)  
 
 
 
