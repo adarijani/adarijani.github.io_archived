@@ -25,10 +25,9 @@ Mechanical Engineer turned Simulation Scientist turned ML Engineer. Generally in
 ##### Exams/Certificates/Letters of Recommendation
 [TOEFL](https://github.com/adarijani/adarijani.github.io/blob/master/assets/pdf/TOEFL.pdf)  
 [GRE](https://github.com/adarijani/adarijani.github.io/blob/master/assets/pdf/GRE.pdf)  
-you can [get the PDF]({{ site.url }}/assets/short_resume.pdf) directly.
+you can [get the PDF]({{ site.url }}/assets/pdf/short_resume.pdf) directly.
 
 
-test for Omid:-)
 
 
 
