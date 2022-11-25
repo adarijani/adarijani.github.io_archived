@@ -19,7 +19,11 @@ social: true # includes social icons at the bottom of the page
 ---
 
 Mechanical Engineer turned Simulation Scientist turned ML Engineer. Generally interested in Numerical Math be it deterministic or stochastic and implementation in a high-performance fashion. Likes [Darwin](https://en.wikipedia.org/wiki/Darwin_operating_system) and in turn [MacBooks](https://www.apple.com/mac/), [zsh](https://www.zsh.org), [vim](https://www.vim.org), [tmux](https://github.com/tmux/tmux/wiki) for handling the workflow. 
-
-[TOEFL Certificate](https://github.com/adarijani/adarijani.github.io/blob/master/assets/pdf/TOEFL.pdf)
+### Short/Extended Resume
+[short](https://github.com/adarijani/adarijani.github.io/blob/master/assets/pdf/short_resume.pdf)
+[extended](https://github.com/adarijani/adarijani.github.io/blob/master/assets/pdf/extended_resume.pdf)
+## Exams/Certificates/Letters of Recommendation
+[TOEFL](https://github.com/adarijani/adarijani.github.io/blob/master/assets/pdf/TOEFL.pdf)
+[GRE](https://github.com/adarijani/adarijani.github.io/blob/master/assets/pdf/GRE.pdf)
 
 
