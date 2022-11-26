@@ -18,7 +18,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Mechanical Engineer turned Simulation Scientist turned ML Engineer. Generally interested in Numerical Math be it deterministic or stochastic and implementation in a high-performance fashion. Likes [Darwin](https://en.wikipedia.org/wiki/Darwin_operating_system) and in turn [MacBooks](https://www.apple.com/mac/), [zsh](https://www.zsh.org), [vim](https://www.vim.org), [tmux](https://github.com/tmux/tmux/wiki) for handling the workflow. 
+Mechanical Engineer turned Simulation Scientist turned ML Engineer. Generally interested in Numerical Math be it deterministic or stochastic and implementation in a high-performance fashion. Likes [Darwin](https://en.wikipedia.org/wiki/Darwin_operating_system) and in turn [MacBooks](https://www.apple.com/mac/). Uses the said OS,[zsh](https://www.zsh.org), [Alacritty](https://github.com/alacritty/alacritty), [tmux](https://github.com/tmux/tmux/wiki), and [vim](https://www.vim.org) for handling the workflow.
+
+
+
+
+
 ##### Short/Extended Resume
 [short resume]({{ site.url }}/assets/pdf/short_resume.pdf)  
 [extended resume]({{ site.url }}/assets/pdf/extended_resume.pdf)  
