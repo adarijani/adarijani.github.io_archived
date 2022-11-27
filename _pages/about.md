@@ -19,8 +19,8 @@ social: true # includes social icons at the bottom of the page
 ---
 
 Mechanical Engineer turned Simulation Scientist turned ML Engineer. Generally interested in Numerical Math be it deterministic or stochastic and its implementation in a high-performance fashion.  
-    Likes [Darwin](https://en.wikipedia.org/wiki/Darwin_operating_system) and in turn [MacBooks](https://www.apple.com/mac/).
- His Five:-) horsemen of the Apocalypse are the siad [OS](https://en.wikipedia.org/wiki/Darwin_operating_system), [zsh](https://www.zsh.org), [Alacritty](https://github.com/alacritty/alacritty), [tmux](https://github.com/tmux/tmux/wiki), and [vim](https://www.vim.org) for handling the workflow.  
+    Likes [Darwin](https://github.com/apple/darwin-xnu) and in turn [MacBooks](https://www.apple.com/mac/).
+ His Five:-) horsemen of the Apocalypse are the [said OS](https://github.com/apple/darwin-xnu), [zsh](https://www.zsh.org), [Alacritty](https://alacritty.org/), [tmux](https://github.com/tmux/), and [vim](https://www.vim.org) for handling the workflow.  
 
 
 
