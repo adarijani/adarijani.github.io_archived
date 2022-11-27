@@ -1,10 +1,10 @@
 github_users:
   - torvalds
-  - apple
   - jwilm
   - nicm
   - brammool
 github_repos:
+  - torvalds/linux
   - apple/darwin-xnu
   - Homebrew
   - ohmyzsh/ohmyzsh
