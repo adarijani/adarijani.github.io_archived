@@ -1,6 +1,9 @@
 github_users:
   - torvalds
   - apple
+  - jwilm
+  - nicm
+  - brammool
 github_repos:
   - apple/darwin-xnu
   - Homebrew
