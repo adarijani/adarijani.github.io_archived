@@ -1,8 +1,10 @@
 github_users:
   - torvalds
 github_repos:
+  - Homebrew
+  - ohmyzsh/ohmyzsh
   - alacritty/alacritty
   - eendroroy/alacritty-theme
-  - ibraheemdev/modern-unix
-  - ohmyzsh/ohmyzsh
   - tmux
+  - ibraheemdev/modern-unix
+
