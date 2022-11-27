@@ -2,6 +2,7 @@ github_users:
   - torvalds
   - apple
 github_repos:
+  - apple/darwin-xnu
   - Homebrew
   - ohmyzsh/ohmyzsh
   - alacritty/alacritty
