@@ -2,6 +2,7 @@ github_users:
   - torvalds
 github_repos:
   - alacritty/alacritty
+  - eendroroy/alacritty-theme
   - ibraheemdev/modern-unix
   - ohmyzsh/ohmyzsh
-  - tmux/tmux
+  - tmux/tmux/wiki
