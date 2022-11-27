@@ -1,5 +1,6 @@
 github_users:
   - torvalds
+  - apple
 github_repos:
   - Homebrew
   - ohmyzsh/ohmyzsh
