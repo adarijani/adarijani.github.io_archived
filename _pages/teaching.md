@@ -11,6 +11,6 @@ nav_order: 5
 [comment]: <>(Organize your courses by years, topics, or universities, however you like!)
 
 # UNDER CONSTRUCTION
-## Why I do teaching?
+## Why do I do teaching?
 I think
 # TO BE CONTINUED
