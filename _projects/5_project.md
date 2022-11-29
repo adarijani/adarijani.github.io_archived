@@ -42,14 +42,36 @@ There is this book that can give an overall view of the most important topics in
 [Multi-core processor](https://en.wikipedia.org/wiki/Multi-core_processor)  
 ### 02_Modern processors
 #### Stored_Program_Computer_Architecture
+[Computer](https://en.wikipedia.org/wiki/Computer#Digital_computers)  
 [Stored-program computer](https://en.wikipedia.org/wiki/Stored-program_computer)  
+[Apollo Guidance Computer](https://en.wikipedia.org/wiki/Apollo_Guidance_Computer)  
 [Von Neumann architecture](https://en.wikipedia.org/wiki/Von_Neumann_architecture)  
 [Control unit](https://en.wikipedia.org/wiki/Control_unit)  
 [Arithmetic logic unit](https://en.wikipedia.org/wiki/Arithmetic_logic_unit)  
 [CPU](https://en.wikipedia.org/wiki/Central_processing_unit)  
-[Processor](https://en.wikipedia.org/wiki/Processor_(computing))
-[Computer](https://en.wikipedia.org/wiki/Computer#Digital_computers)  
-[Apollo Guidance Computer](https://en.wikipedia.org/wiki/Apollo_Guidance_Computer)  
+[Bottleneck](https://en.wikipedia.org/wiki/Bottleneck_(software))  
+[Single instruction, single data(SISD)](https://en.wikipedia.org/wiki/Single_instruction,_single_data)  
+[High-level programming language](https://en.wikipedia.org/wiki/High-level_programming_language)  
+[C++](https://en.wikipedia.org/wiki/C%2B%2B)  
+[Fortran](https://en.wikipedia.org/wiki/Fortran)  
+[Compiler](https://en.wikipedia.org/wiki/Compiler)  
+[Instruction Set](https://en.wikipedia.org/wiki/Instruction_set_architecture)  
+[Microprocessor](https://en.wikipedia.org/wiki/Microprocessor)  
+[Processor](https://en.wikipedia.org/wiki/Processor_(computing))  
+[Processor register](https://en.wikipedia.org/wiki/Processor_register)  
+[Opcode](https://en.wikipedia.org/wiki/Opcode)  
+[Complex Instruction Set Computers](https://en.wikipedia.org/wiki/Complex_instruction_set_computer)  
+[Reduced Instruction Set Computer](https://en.wikipedia.org/wiki/Reduced_instruction_set_computer)  
+[Explicitly Parallel Instruction Computing](https://en.wikipedia.org/wiki/Explicitly_parallel_instruction_computing)  
+[X86](https://en.wikipedia.org/wiki/X86)  
+[Endianness](https://en.wikipedia.org/wiki/Endianness)  
+[MIPS](https://en.wikipedia.org/wiki/MIPS_architecture)  
+[memory addresses](https://en.wikipedia.org/wiki/Memory_address)  
+#### Microarchitecture – Pipelining
+
+
+
+
 
 
 
