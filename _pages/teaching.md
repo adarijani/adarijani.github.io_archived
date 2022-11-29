@@ -10,6 +10,8 @@ nav_order: 5
 
 [comment]: <>(Organize your courses by years, topics, or universities, however you like!)
 
-##### Heat Transfer I/II
-##### Technical English
-##### Linux 
+## Math
+Heat Transfer I/II
+## CS
+## IT
+History of UNIX, Linux
