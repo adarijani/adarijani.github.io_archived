@@ -68,7 +68,27 @@ There is this book that can give an overall view of the most important topics in
 [MIPS](https://en.wikipedia.org/wiki/MIPS_architecture)  
 [memory addresses](https://en.wikipedia.org/wiki/Memory_address)  
 #### Microarchitecture – Pipelining
-
+[Microarchitecture](https://en.wikipedia.org/wiki/Microarchitecture)  
+[Pipelining](https://en.wikipedia.org/wiki/Instruction_pipelining)  
+[mantissas](https://en.wikipedia.org/wiki/Significand)  
+[High-throughput computing](https://en.wikipedia.org/wiki/High-throughput_computing)  
+[latency](https://en.wikipedia.org/wiki/Latency_(engineering))  
+[Out-of-order execution](https://en.wikipedia.org/wiki/Out-of-order_execution)  
+[Speculative execution](https://en.wikipedia.org/wiki/Speculative_execution)  
+[speedup](https://en.wikipedia.org/wiki/Speedup)  
+[Scalar processor](https://en.wikipedia.org/wiki/Scalar_processor)  
+[Superscalar processor](https://en.wikipedia.org/wiki/Superscalar_processor)  
+[Overhead](https://en.wikipedia.org/wiki/Overhead_(computing))  
+[Hazard (computer architecture)](https://en.wikipedia.org/wiki/Hazard_(computer_architecture))  
+[Software pipelining](https://en.wikipedia.org/wiki/Software_pipelining)  
+[Aliasing (computing)](https://en.wikipedia.org/wiki/Aliasing_(computing))  
+[Inline expansion](https://en.wikipedia.org/wiki/Inline_expansion)  
+#### Microarchitecture – Superscalarity and SIMD
+[superscalarity](https://en.wiktionary.org/wiki/superscalarity)  
+[SIMD = Single Instruction Multiple Data](https://en.wikipedia.org/wiki/Single_instruction,_multiple_data)  
+[Streaming SIMD Extensions](https://en.wikipedia.org/wiki/Streaming_SIMD_Extensions)  
+[Advanced Vector Extensions](https://en.wikipedia.org/wiki/Advanced_Vector_Extensions)  
+#### Memory hierarchies – Caches
 
 
 
