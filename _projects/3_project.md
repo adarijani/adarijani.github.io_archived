@@ -4,7 +4,7 @@ title: Asiakadeh Ecotourism Resort
 description: Our Story
 img: assets/img/asiakadeh.jpg
 importance: 3
-category: work
+category: personal business
 ---
 
 ### The Idea

@@ -4,7 +4,7 @@ title: Tara School
 description: Our Story
 img: assets/img/tara_school.jpg
 importance: 2
-category: work
+category: personal business
 ---
 
 # UNDER CONSTRUCTION
