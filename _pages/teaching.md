@@ -14,4 +14,4 @@ nav_order: 5
 Heat Transfer I/II
 ## CS
 ## IT
-History of UNIX, Linux
+Philosophy and History of UNIX, Linux
