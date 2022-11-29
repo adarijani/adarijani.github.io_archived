@@ -30,6 +30,28 @@ There is this book that can give an overall view of the most important topics in
 [IBM Blue Gene](https://en.wikipedia.org/wiki/IBM_Blue_Gene)  
 [Summit](https://en.wikipedia.org/wiki/Summit_(supercomputer))  
 [Fugaku](https://en.wikipedia.org/wiki/Fugaku_(supercomputer))  
+#### TOP500
+[Top500](https://en.wikipedia.org/wiki/TOP500)  
+[Benchmark](https://en.wikipedia.org/wiki/Benchmark_(computing))  
+[LINPACK](https://en.wikipedia.org/wiki/LINPACK)  
+[FLOPS](https://en.wikipedia.org/wiki/FLOPS)  
+[LAPACK](https://en.wikipedia.org/wiki/LAPACK)  
+#### Why is parallelism important?
+[Moore's law](https://en.wikipedia.org/wiki/Moore%27s_law)  
+[Clock rate](https://en.wikipedia.org/wiki/Clock_rate)  
+[Multi-core processor](https://en.wikipedia.org/wiki/Multi-core_processor)  
+### 02_Modern processors
+#### Stored_Program_Computer_Architecture
+[Stored-program computer](https://en.wikipedia.org/wiki/Stored-program_computer)  
+[Von Neumann architecture](https://en.wikipedia.org/wiki/Von_Neumann_architecture)  
+[Control unit](https://en.wikipedia.org/wiki/Control_unit)  
+[Arithmetic logic unit](https://en.wikipedia.org/wiki/Arithmetic_logic_unit)  
+[CPU](https://en.wikipedia.org/wiki/Central_processing_unit)  
+[Processor](https://en.wikipedia.org/wiki/Processor_(computing))
+[Computer](https://en.wikipedia.org/wiki/Computer#Digital_computers)  
+[Apollo Guidance Computer](https://en.wikipedia.org/wiki/Apollo_Guidance_Computer)  
+
+
 
 ### 06_Parallelization_and_Optimization_Strategies
 [Concurrency](https://en.wikipedia.org/wiki/Concurrency_(computer_science))  
