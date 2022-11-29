@@ -17,7 +17,7 @@ I suggest the following sources to a get a hang of things:
 [Linux Essentials](https://learning.lpi.org/pdfstore/LPI-Learning-Material-010-160-en.pdf)  
 [Introduction to Linux in HPC NRW](https://hpc-wiki.info/hpc/Introduction_to_Linux_in_HPC)  
 ### A bit of Everything
-There is this book that can give a overall view of most important topic in the [HPC](https://en.wikipedia.org/wiki/High-performance_computing). The problem is that the book is a bit old and it is showing its age as the time goes by. The authors promised to come up with a second edition but till then here it is:  
+There is this book that can give an overall view of the most important topics in the [HPC](https://en.wikipedia.org/wiki/High-performance_computing). The problem is that the book is a bit old and it is showing its age more and more as the time goes by. The authors promised to come up with a second edition but till then here it is:  
 [Introduction to High Performance Computing for Scientists and Engineers](https://www.routledge.com/Introduction-to-High-Performance-Computing-for-Scientists-and-Engineers/Hager-Wellein/p/book/9781439811924)  
 ### Computer Architecture
 
