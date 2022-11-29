@@ -32,7 +32,11 @@ Owes a great debt to [S. Shahshahani](http://sharif.ir/~shahshah/), [M. Jalali](
 
 ##### Short/Extended Resume
 [short resume]({{ site.url }}/assets/pdf/short_resume.pdf)  
-[extended resume]({{ site.url }}/assets/pdf/extended_resume.pdf)  
+[extended resume]({{ site.url }}/assets/pdf/extended_resume.pdf)
+##### Degrees and Transcripts
+[BSc Degree]({{ site.url }}/assets/pdf/BSc_degree.pdf)  
+[Bachelor Transcripts]({{ site.url }}/assets/pdf/Transcripts_bachelor.pdf)  
+[Master Transcripts]({{ site.url }}/assets/pdf/Transcripts_master.pdf)  
 ##### Programming Certificates
 [C++ by Dr. Klaus Iglberger]({{ site.url }}/assets/pdf/C++22.pdf)  
 [Kaggle(All)]({{ site.url }}/assets/pdf/kaggle.pdf)  
