@@ -107,6 +107,12 @@ There is this book that can give an overall view of the most important topics in
 [Cache coherence](https://en.wikipedia.org/wiki/Cache_coherence)  
 [MSI protocol](https://en.wikipedia.org/wiki/MSI_protocol)  
 ### 03_Basic optimization
+#### Introduction
+[Scalability](https://en.wikipedia.org/wiki/Scalability)  
+[Runtime (program lifecycle phase)](https://en.wikipedia.org/wiki/Runtime_(program_lifecycle_phase))  
+[Profiling (computer programming)](https://en.wikipedia.org/wiki/Profiling_(computer_programming))  
+#### Monitoring
+
 
 
 
