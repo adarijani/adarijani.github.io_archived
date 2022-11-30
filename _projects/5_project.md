@@ -89,6 +89,25 @@ There is this book that can give an overall view of the most important topics in
 [Streaming SIMD Extensions](https://en.wikipedia.org/wiki/Streaming_SIMD_Extensions)  
 [Advanced Vector Extensions](https://en.wikipedia.org/wiki/Advanced_Vector_Extensions)  
 #### Memory hierarchies – Caches
+[Memory hierarchy](https://en.wikipedia.org/wiki/Memory_hierarchy)  
+[Cache (computing)](https://en.wikipedia.org/wiki/Cache_(computing)#HARDWARE)  
+[CPU cache](https://en.wikipedia.org/wiki/CPU_cache)  
+[Memory module](https://en.wikipedia.org/wiki/Memory_module)  
+[DIMM (/dɪm/) (Dual In-line Memory Module)](https://en.wikipedia.org/wiki/DIMM)  
+[Double data rate(DDR)](https://en.wikipedia.org/wiki/Double_data_rate)  
+[DRAM(Dynamic Random Access Memory)](https://en.wikipedia.org/wiki/Dynamic_random-access_memory)  
+[Registers](https://en.wikipedia.org/wiki/Processor_register)  
+[Memory bandwidth](https://en.wikipedia.org/wiki/Memory_bandwidth)  
+[Memory latency](https://en.wikipedia.org/wiki/Memory_latency)  
+[locality of reference/principle of locality](https://en.wikipedia.org/wiki/Locality_of_reference)  
+[Prefetching](https://en.wikipedia.org/wiki/Prefetching)  
+[Cache prefetching](https://en.wikipedia.org/wiki/Cache_prefetching)  
+[Cache replacement policies](https://en.wikipedia.org/wiki/Cache_replacement_policies#LRU)  
+[Hash Table](https://en.wikipedia.org/wiki/Hash_table)  
+[Cache coherence](https://en.wikipedia.org/wiki/Cache_coherence)  
+[MSI protocol](https://en.wikipedia.org/wiki/MSI_protocol)  
+### 03_Basic optimization
+
 
 
 
