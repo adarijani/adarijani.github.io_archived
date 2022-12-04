@@ -7,3 +7,4 @@ tags: tenet
 categories: tenet
 ---
 
+I miss the old times when I could just read a book from cover to cover.
