@@ -8,7 +8,7 @@ category: teaching
 ---
 
 [LPI Linux Essentials](https://learning.lpi.org/pdfstore/LPI-Learning-Material-010-160-en.pdf)  
-[PLI Web Development Essentials](Web Development Essentials)  
+[PLI Web Development Essentials](https://learning.lpi.org/pdfstore/LPI-Learning-Material-030-100-en.pdf)  
 [LPI LPIC-1 Exam 101](https://learning.lpi.org/pdfstore/LPI-Learning-Material-101-500-en.pdf)  
 [LPI LPIC-1 Exam 101](https://learning.lpi.org/pdfstore/LPI-Learning-Material-102-500-en.pdf)  
 [An Online Linux Terminal Emulator](https://bellard.org/jslinux/)  
