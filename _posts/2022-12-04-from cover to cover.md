@@ -1,10 +1,9 @@
 ---
 layout: post
-title: education
+title: from cover to cover
 date: 2022-12-04 15:00:00
-description: education
+description: from cover to cover
 tags: tenet
 categories: tenet
 ---
 
-There is nothing to see here:-)
