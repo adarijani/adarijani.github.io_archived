@@ -21,4 +21,4 @@ heavily on games and brain teasers and trying to get them to compete eachother i
 * [Infimum and supremum](https://en.wikipedia.org/wiki/Infimum_and_supremum)  
 
 ## [Jenga](https://en.wikipedia.org/wiki/Jenga)  
-
+* [Statics](https://en.wikipedia.org/wiki/Statics)  
