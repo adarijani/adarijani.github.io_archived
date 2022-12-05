@@ -7,6 +7,7 @@ importance: 1
 category: teaching
 ---
 
+[Arch Wiki](https://wiki.archlinux.org/)  
 [LPI Linux Essentials](https://learning.lpi.org/pdfstore/LPI-Learning-Material-010-160-en.pdf)  
 [LPI Web Development Essentials](https://learning.lpi.org/pdfstore/LPI-Learning-Material-030-100-en.pdf)  
 [LPI LPIC-1 Exam 101](https://learning.lpi.org/pdfstore/LPI-Learning-Material-101-500-en.pdf)  
