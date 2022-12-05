@@ -7,4 +7,4 @@ importance: 3
 category: personal business
 ---
 
-### The Idea
+# UNDER CONSTRUCTION
