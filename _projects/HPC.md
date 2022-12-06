@@ -139,7 +139,7 @@ There is this book that can give an overall view of the most important topics in
 * [rsync wiki](https://en.wikipedia.org/wiki/Rsync) *** [rsync](https://man7.org/linux/man-pages/man1/rsync.1.html)  
 * [FastX GUI based remote desktop session client](https://www.starnet.com/fastx/)  
 * [Tar wiki](https://en.wikipedia.org/wiki/Tar_(computing)) *** [Tar man page](https://man7.org/linux/man-pages/man1/tar.1.html)  
-* [Slurm Workload Manager] wiki](https://en.wikipedia.org/wiki/Slurm_Workload_Manager) *** [Slurm Workload Manager](https://slurm.schedmd.com/)  
+* [Slurm Workload Manager wiki](https://en.wikipedia.org/wiki/Slurm_Workload_Manager) *** [Slurm Workload Manager](https://slurm.schedmd.com/)  
 ### Exercise 01
 
 
