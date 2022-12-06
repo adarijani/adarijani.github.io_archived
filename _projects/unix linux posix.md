@@ -7,17 +7,29 @@ importance: 1
 category: teaching
 ---
 
-[Arch Wiki](https://wiki.archlinux.org/)  
-[LPI Linux Essentials](https://learning.lpi.org/pdfstore/LPI-Learning-Material-010-160-en.pdf)  
-[LPI Web Development Essentials](https://learning.lpi.org/pdfstore/LPI-Learning-Material-030-100-en.pdf)  
-[LPI LPIC-1 Exam 101](https://learning.lpi.org/pdfstore/LPI-Learning-Material-101-500-en.pdf)  
-[LPI LPIC-1 Exam 101](https://learning.lpi.org/pdfstore/LPI-Learning-Material-102-500-en.pdf)  
-[The LPIC2 Exam Prep](https://lpic2book.github.io/src/pdf/lpic2book.pdf)  
+## Option 00
+* Arch Wiki [Link](https://wiki.archlinux.org/)
 
+## Option 01
+* LPI Linux Essentials [pdf](https://learning.lpi.org/pdfstore/LPI-Learning-Material-010-160-en.pdf)  
+* LPI Web Development Essentials [pdf](https://learning.lpi.org/pdfstore/LPI-Learning-Material-030-100-en.pdf)  
+* LPI LPIC-1 Exam 101 [pdf](https://learning.lpi.org/pdfstore/LPI-Learning-Material-101-500-en.pdf)  
+* LPI LPIC-1 Exam 101 [pdf](https://learning.lpi.org/pdfstore/LPI-Learning-Material-102-500-en.pdf)  
+* The LPIC2 Exam Prep [pdf](https://lpic2book.github.io/src/pdf/lpic2book.pdf)  
+* Practical LPIC-3 300 [Link](https://link.springer.com/book/10.1007/978-1-4842-4473-9)  
 
-[An Online Linux Terminal Emulator](https://bellard.org/jslinux/)  
+## Option 02
+* UNIX® AND LINUX® SYSTEM ADMINISTRATION HANDBOOK Evi Nemeth [Link](https://www.oreilly.com/library/view/unix-and-linux/9780134278308/)  
 
-[Filesystem Hierarchy Standard](https://refspecs.linuxfoundation.org/FHS_3.0/fhs-3.0.pdf)  
+## Option 03
+* Using and Administering Linux: Volume 1: Zero to SysAdmin: Getting Started [Link](https://www.oreilly.com/library/view/using-and-administering/9781484250495/)  
+* Using and Administering Linux: Volume 2: Zero to SysAdmin: Advanced Topics [Link](https://www.oreilly.com/library/view/using-and-administering/9781484254554/)  
+* Using and Administering Linux: Volume 3: Zero to SysAdmin: Network Services [Link](https://www.oreilly.com/library/view/using-and-administering/9781484254851/)  
+
+## Companion Books/Links
+* An Online Linux Terminal Emulator [Link](https://bellard.org/jslinux/)  
+* Filesystem Hierarchy Standard [pdf](https://refspecs.linuxfoundation.org/FHS_3.0/fhs-3.0.pdf)  
+*   
 
 
 
