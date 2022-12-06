@@ -27,7 +27,7 @@ category: teaching
 * Using and Administering Linux: Volume 3: Zero to SysAdmin: Network Services [Link](https://www.oreilly.com/library/view/using-and-administering/9781484254851/)  
 
 ## Companion Books/Links
-* An Online Linux Terminal Emulator [Link](https://bellard.org/jslinux/)  
+* An Online Linux Terminal Emulator [Link](https://bellard.org/jslinux/) VirtualBox [Link](https://www.virtualbox.org/)  
 * Filesystem Hierarchy Standard [pdf](https://refspecs.linuxfoundation.org/FHS_3.0/fhs-3.0.pdf)  
 *   
 
