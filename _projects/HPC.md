@@ -133,7 +133,14 @@ There is this book that can give an overall view of the most important topics in
 [Interconnection](https://en.wikipedia.org/wiki/Interconnection)  
 
 
-
+### Exercise 00
+* [SSH wiki](https://en.wikipedia.org/wiki/Secure_Shell) [SSH man page](https://man7.org/linux/man-pages/man1/ssh.1.html)  
+* [cp wiki](https://en.wikipedia.org/wiki/Cp_(Unix)) [cp man page](https://man7.org/linux/man-pages/man1/cp.1.html)  
+* [rsync wiki](https://en.wikipedia.org/wiki/Rsync) [rsync](https://man7.org/linux/man-pages/man1/rsync.1.html)  
+* [FastX GUI based remote desktop session client](https://www.starnet.com/fastx/)  
+* [Tar wiki](https://en.wikipedia.org/wiki/Tar_(computing)) [Tar man page](https://man7.org/linux/man-pages/man1/tar.1.html)  
+* [Slurm Workload Manager] wiki](https://en.wikipedia.org/wiki/Slurm_Workload_Manager)  [Slurm Workload Manager](https://slurm.schedmd.com/)  
+### Exercise 01
 
 
 
