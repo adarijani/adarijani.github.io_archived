@@ -30,6 +30,14 @@ category: teaching
 * An Online Linux Terminal Emulator [Link](https://bellard.org/jslinux/) VirtualBox [Link](https://www.virtualbox.org/)  
 * Filesystem Hierarchy Standard [pdf](https://refspecs.linuxfoundation.org/FHS_3.0/fhs-3.0.pdf)  
 *   
-
+## Horsemen of the Apocalypse
+* OS *** [Darwin](https://github.com/apple/darwin-xnu)  
+* Package Manager *** [brew](https://brew.sh/)  
+* Terminal Emulator *** [Alacritty](https://alacritty.org/)  
+* Shell *** [zsh](https://www.zsh.org/)  
+* Boosting the Shell Using [ohmyzsh](https://ohmyz.sh/)  
+* Terminal Multiplexer *** [tmux](https://github.com/tmux)  
+* Modern Linux Tools *** [Modern Linux](https://github.com/ibraheemdev/modern-unix)  
+* to be continued:-)
 
 
