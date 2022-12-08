@@ -29,7 +29,6 @@ category: teaching
 ## Companion Books/Links
 * An Online Linux Terminal Emulator [Link](https://bellard.org/jslinux/) VirtualBox [Link](https://www.virtualbox.org/)  
 * Filesystem Hierarchy Standard [pdf](https://refspecs.linuxfoundation.org/FHS_3.0/fhs-3.0.pdf)  
-*   
 ## Horsemen of the Apocalypse
 * OS *** [Darwin](https://github.com/apple/darwin-xnu)  
 * Package Manager *** [brew](https://brew.sh/)  
