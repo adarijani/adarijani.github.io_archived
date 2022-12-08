@@ -30,7 +30,8 @@ category: teaching
 * Linux from Scratch [Link](https://www.linuxfromscratch.org/lfs/downloads/stable/LFS-BOOK-11.2.pdf)  
 * Filesystem Hierarchy Standard [pdf](https://refspecs.linuxfoundation.org/FHS_3.0/fhs-3.0.pdf)  
 ## Horsemen of the Apocalypse
-* An Online Linux Terminal Emulator [Link](https://bellard.org/jslinux/)  
+* Apple Hardware [Link](https://www.apple.com/mac/)
+* * An Online Linux Terminal Emulator [Link](https://bellard.org/jslinux/)      
 * VirtualBox [Link](https://www.virtualbox.org/)  
 * OS *** [Darwin](https://github.com/apple/darwin-xnu)  
 * Package Manager *** [brew](https://brew.sh/)  
