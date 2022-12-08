@@ -26,7 +26,7 @@ category: teaching
 * Using and Administering Linux: Volume 2: Zero to SysAdmin: Advanced Topics [Link](https://www.oreilly.com/library/view/using-and-administering/9781484254554/)  
 * Using and Administering Linux: Volume 3: Zero to SysAdmin: Network Services [Link](https://www.oreilly.com/library/view/using-and-administering/9781484254851/)  
 
-## Companion Books/Pdfs/Articles
+## Important Books/Pdfs/Articles
 * Linux from Scratch [Link](https://www.linuxfromscratch.org/lfs/downloads/stable/LFS-BOOK-11.2.pdf)  
 * Filesystem Hierarchy Standard [pdf](https://refspecs.linuxfoundation.org/FHS_3.0/fhs-3.0.pdf)  
 ## Horsemen of the Apocalypse
