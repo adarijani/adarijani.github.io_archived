@@ -30,6 +30,7 @@ category: teaching
 * Linux from Scratch [Link](https://www.linuxfromscratch.org/lfs/downloads/stable/LFS-BOOK-11.2.pdf)  
 * Filesystem Hierarchy Standard [pdf](https://refspecs.linuxfoundation.org/FHS_3.0/fhs-3.0.pdf)  
 * Linux for Small Business Owners [Link](https://link.springer.com/book/10.1007/978-1-4842-8264-9)  
+
 ## Horsemen of the Apocalypse
 * Apple Hardware [Link](https://www.apple.com/mac/)
 * An Online Linux Terminal Emulator [Link](https://bellard.org/jslinux/)      
