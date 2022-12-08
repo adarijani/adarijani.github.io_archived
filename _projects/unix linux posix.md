@@ -26,12 +26,12 @@ category: teaching
 * Using and Administering Linux: Volume 2: Zero to SysAdmin: Advanced Topics [Link](https://www.oreilly.com/library/view/using-and-administering/9781484254554/)  
 * Using and Administering Linux: Volume 3: Zero to SysAdmin: Network Services [Link](https://www.oreilly.com/library/view/using-and-administering/9781484254851/)  
 
-## Important Books/Pdfs/Articles
+## Companion Books/Pdfs/Articles
 * Linux from Scratch [Link](https://www.linuxfromscratch.org/lfs/downloads/stable/LFS-BOOK-11.2.pdf)  
 * Filesystem Hierarchy Standard [pdf](https://refspecs.linuxfoundation.org/FHS_3.0/fhs-3.0.pdf)  
 * Linux for Small Business Owners [Link](https://link.springer.com/book/10.1007/978-1-4842-8264-9)  
 
-## Horsemen of the Apocalypse
+## My Horsemen of the Apocalypse
 * Hardware: [Apple](https://www.apple.com/mac/)
 * An Online Linux Terminal Emulator: [JSLinux](https://bellard.org/jslinux/)      
 * Hypervisor: [VirtualBox](https://www.virtualbox.org/)  
