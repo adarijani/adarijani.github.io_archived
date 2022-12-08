@@ -32,16 +32,16 @@ category: teaching
 * Linux for Small Business Owners [Link](https://link.springer.com/book/10.1007/978-1-4842-8264-9)  
 
 ## Horsemen of the Apocalypse
-* Apple Hardware [Link](https://www.apple.com/mac/)
-* An Online Linux Terminal Emulator [Link](https://bellard.org/jslinux/)      
-* VirtualBox [Link](https://www.virtualbox.org/)  
-* OS *** [Darwin](https://github.com/apple/darwin-xnu)  
-* Package Manager *** [brew](https://brew.sh/)  
-* Terminal Emulator *** [Alacritty](https://alacritty.org/)  
-* Shell *** [zsh](https://www.zsh.org/)  
-* Boosting the Shell Using [ohmyzsh](https://ohmyz.sh/)  
-* Terminal Multiplexer *** [tmux](https://github.com/tmux)  
-* Modern Linux Tools *** [Modern Linux](https://github.com/ibraheemdev/modern-unix)  
+* Hardware: [Apple](https://www.apple.com/mac/)
+* An Online Linux Terminal Emulator: [JSLinux](https://bellard.org/jslinux/)      
+* Hypervisor: [VirtualBox](https://www.virtualbox.org/)  
+* OS: [Darwin](https://github.com/apple/darwin-xnu)  
+* Package Manager: [brew](https://brew.sh/)  
+* Terminal Emulator: [Alacritty](https://alacritty.org/)  
+* Shell: [zsh](https://www.zsh.org/)  
+* Zsh Configuration Framework: [ohmyzsh](https://ohmyz.sh/)  
+* Terminal Multiplexer: [tmux](https://github.com/tmux)  
+* Modern Linux Tools: [Modern Linux](https://github.com/ibraheemdev/modern-unix)  
 * to be continued:-)
 
 
