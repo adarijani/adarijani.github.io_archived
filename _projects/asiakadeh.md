@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Asiakadeh Ecotourism Resort
-description: Our Story
+description: Asiakadeh Ecotourism Resort
 img: assets/img/asiakadeh.jpg
-importance: 3
+redirect: https://adarijani.github.io/asiakadeh-ecotourism-resort/
+importance: 1
 category: personal business
 ---
 
-# UNDER CONSTRUCTION
