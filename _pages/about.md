@@ -32,7 +32,7 @@ Owes a great debt to [S. Shahshahani](http://sharif.ir/~shahshah/), [M. Jalali](
 
 ##### Short/Extended Resume
 [short resume]({{ site.url }}/assets/pdf/short_resume.pdf)  
-[extended resume]({{ site.url }}/assets/pdf/extended_resume.pdf)
+[extended resume]({{ site.url }}/assets/pdf/extended_resume/extended_resume.pdf)
 ##### Degrees and Transcripts
 [BSc Degree]({{ site.url }}/assets/pdf/BSc_degree.pdf)  
 [Bachelor Transcripts]({{ site.url }}/assets/pdf/Transcripts_bachelor.pdf)  
