@@ -1,0 +1,190 @@
+\documentclass[a4paper]{MagicalCV}
+
+% Removing page numbers
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+
+% Change the geometry
+\geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}
+
+% Defining your colors
+\definecolor{VividPurple}{HTML}{3E0097}
+\definecolor{SlateGrey}{HTML}{2E2E2E}
+\definecolor{LightGrey}{HTML}{666666}
+\colorlet{heading}{VividPurple}
+\colorlet{accent}{VividPurple}
+\colorlet{emphasis}{SlateGrey}
+\colorlet{body}{LightGrey}
+
+% Color for highlights
+% Awesome Colors: awesome-emerald, awesome-skyblue, awesome-red, awesome-pink, awesome-orange
+%                 awesome-nephritis, awesome-concrete, awesome-darknight
+\colorlet{awesome}{awesome-purple}
+
+% Set false if you don't want to highlight section with awesome color
+\setbool{acvSectionColorHighlight}{true}
+
+% If you would like to change the social information separator from a pipe (|) to something else
+\renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
+
+% start document
+\begin{document}
+
+% Last update time
+\lastupdated
+
+% Title name
+\namesection{Ali}{Darijani}{
+\phone{+4917642743283} \email{\href{mailto:ali.darijani.me@gmail.com}{ali.darijani.me@gmail.com}}} \homepage{URL} \href{https://github.com/adarijani}{\bf adarijani} 
+\github{GitHub} \href{https://github.com/adarijani}{\bf adarijani}
+\linkedin{Linkedin} \href{https://www.linkedin.com/in/ali-darijani-675b52241/}{\bf AD}
+
+
+% Column one
+\begin{minipage}[t]{0.33\textwidth} 
+
+% Education
+\cvsection{Education} 
+
+\subsection{RWTH Aachen University}
+\descript{MSc in Simulation Sciences}
+\cvevent{2022}{Aachen, Germany} 
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightemize}
+\item THE COVETED TEAMMATTEE
+\end{tightemize}
+\sectionsep
+
+\subsection{Sharif University of Technology}
+\descript{BSc in Mechanical Engineering}
+\cvevent{2017}{Tehran, Iran} 
+\begin{tightemize}
+\item THE COVETED TEAMMATTEE
+\end{tightemize}
+\sectionsep
+
+% Links
+\cvsection{Links}\\
+\homepage{homepage} \href{https://github.com/adarijani}{\bf adarijani} \\
+\github{GitHub} \href{https://github.com/adarijani}{\bf adarijani} \\
+\linkedin{Linkedin} \href{https://www.linkedin.com/in/ali-darijani-675b52241/}{\bf Ali Darijani}
+\sectionsep
+
+% Coursework
+\cvsection{Courses(Passed/Audited}\\
+C++\\
+HPC Using C++\\
+%Tensor(Linear Algebra) Calculus I/II\\
+%Introduction to High-Performance Computing\\
+Parallel Comutational Mechanics\\
+Machine Learning\\
+Advanced Machine Learning\\
+%Fast Iterative Solvers\\
+Mathematical Signal/Image Procssing\\
+Data Analysis and Visualization\\
+%Advanced Machine Learning\\
+Introduction to Data Science\\
+%C++\\
+
+
+
+%\subsection{Graduate}
+
+\textbf{Dissertation: }
+Algorithm Unrolling in Deep Learning
+\sectionsep
+
+% Skills
+\cvsection{UNIX/Linux/POSIX}
+
+\subsection{}
+At the level of:\\Linux Professional Institute LPIC-1  
+\sectionsep
+
+% Skills
+\cvsection{C/C++/Python}
+
+\subsection{General Concepts}
+Object-Oriented Programming \textbullet{} Template Programming \textbullet{}  
+\sectionsep
+\subsection{Advanced}
+High-Performance Computing \textbullet{} \textbullet{} OpenMP \textbullet{} MPI \textbullet{} Concurrency \textbullet{} Multi-Threading \textbullet{}
+\sectionsep
+
+% Honors
+\cvsection{Honors} 
+
+\subsection{Scholarship}
+\descript{\href{https://ontariotechu.ca/}{\bf Ontario Tech University}}
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+Full Scholarship\\
+\descript{\href{https://en.sharif.edu/}{\bf Sharif University of Technology}}
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+Full Scholarship\\
+\sectionsep
+
+
+% Column two
+\end{minipage} 
+\hfill
+\begin{minipage}[t]{0.66\textwidth} 
+
+% Experience
+\cvsection{Experience}
+
+\runsubsection{Software Engineer} \\
+\descript{RWTH Aachen University}
+\cvevent{April 2022 – January 2023}{Aachen, Germany} 
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightemize}
+\item  OpenGL, Computer Graphics, Differential Geometry
+\end{tightemize}
+\sectionsep
+
+\runsubsection{Software Developer} \\
+\descript{RWTH Aachen University}
+\cvevent{April 2022 – January 2023}{Aachen, Germany} 
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightemize}
+\item  OpenGL, Computer Graphics, Differential Geometry
+\end{tightemize}
+\sectionsep
+
+\runsubsection{Software Developer} \\
+\descript{RWTH Aachen University}
+\cvevent{November 2018 – February 2019}{Aachen, Germany} 
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightemize}
+\item  Comtinuum Mechanics, C++, English Technical Editor
+\end{tightemize}
+\sectionsep
+
+\runsubsection{Software Developer} \\
+\descript{RWTH Aachen University}
+\cvevent{April 2018 - November 2018}{Aachen, Germany} 
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightemize}
+\item  SDEs, Monte Carlo, Fokker–Planck
+\end{tightemize}
+\sectionsep
+
+% Competitions
+\cvsection{Soft Skills}\\
+Google-fu, Subliminal Pattern Recognition, Speed Reading, Time Management,
+\sectionsep
+
+% Recent Projects
+\cvsection{Recent Projects} 
+
+\runsubsection{Computational Geometry} \\
+\descript{RWTH Aachen University}
+\cvevent{April 2022 – January 2023}{Aachen, Germany} 
+\begin{tightemize}
+\item  OpenGL, Computer Graphics, Differential Geometry
+\end{tightemize}
+\sectionsep
+
+
+\end{minipage} 
+\end{document}  
