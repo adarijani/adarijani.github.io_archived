@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.12.15)  15 DEC 2022 18:53
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.12.15)  15 DEC 2022 18:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -996,7 +996,7 @@ g=tex-text;" at 10.95pt
  -> /usr/local/texlive/2022/texmf-dist/fonts/opentype/adobe/sourcesanspro/Sourc
 eSansPro-Regular.otf
 
-No file extended-resume.aux.
+(./extended-resume.aux)
 \openout1 = `extended-resume.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 66.
@@ -1019,6 +1019,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 66.
 LaTeX Font Info:    ... okay on input line 66.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 66.
 LaTeX Font Info:    ... okay on input line 66.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
@@ -1400,9 +1401,9 @@ ex-text;" at 10.95pt
 eSansPro-Bold.otf
  [4] (./extended-resume.aux) ) 
 Here is how much of TeX's memory you used:
- 33017 strings out of 476179
- 673509 string characters out of 5809543
- 1149394 words of memory out of 5000000
+ 33019 strings out of 476179
+ 673549 string characters out of 5809543
+ 1149556 words of memory out of 5000000
  53176 multiletter control sequences out of 15000+600000
  472119 words of font info for 125 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
