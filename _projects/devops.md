@@ -2,7 +2,7 @@
 layout: page
 title: DevOps
 description: DevOps
-img: assets/img/DevOps.jpg
+img: assets/img/devops.jpg
 importance: 1
 category: teaching
 ---
