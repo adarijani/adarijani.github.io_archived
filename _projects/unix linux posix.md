@@ -33,12 +33,9 @@ category: teaching
 * Hypervisor: [VirtualBox](https://www.virtualbox.org/)  
 * OS: [Darwin](https://github.com/apple/darwin-xnu)  
 * Package Manager: [brew](https://brew.sh/)  
-* Terminal Emulator: [Alacritty](https://alacritty.org/) 
-  * Sample Config File: [.alacritty.yml](https://github.com/alacritty/alacritty/blob/master/alacritty.yml) 
-  * Theme-Manager: [alacritty-themes](https://github.com/rajasegar/alacritty-themes)  
-    ```sh
-    alacritty-themes Xterm
-    ```
+* Terminal Emulator: [kitty](https://sw.kovidgoyal.net/kitty/)  
+  * kitty +kitten themes  
+    then set "Dark Pastel"
 * Shell: [zsh](https://www.zsh.org/)  
 * Zsh Configuration Framework: [ohmyzsh](https://ohmyz.sh/)  
 * Terminal Multiplexer: [tmux](https://github.com/tmux)  
