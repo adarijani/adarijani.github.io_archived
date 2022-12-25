@@ -1,8 +1,8 @@
 github_users:
   - torvalds
-  - jwilm
   - nicm
   - brammool
+  - kovidgoyal
 github_repos:
   - torvalds/linux
   - apple/darwin-xnu
