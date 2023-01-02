@@ -20,6 +20,7 @@ category: teaching
 
 ## Important Books/Pdfs/Links
 * USB flash installation medium [Link](https://wiki.archlinux.org/title/USB_flash_installation_medium)  
+* SSH Key Generation [Link](https://wiki.archlinux.org/title/SSH_keys)  
 * Linux from Scratch [Link](https://www.linuxfromscratch.org/lfs/downloads/stable/LFS-BOOK-11.2.pdf)  
 * Filesystem Hierarchy Standard [pdf](https://refspecs.linuxfoundation.org/FHS_3.0/fhs-3.0.pdf)  
 
