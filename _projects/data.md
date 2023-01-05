@@ -8,12 +8,6 @@ category: teaching
 ---
 
 ## Mathematics of Data Science
-
-### All-around
-
-* MATHEMATICS FOR MACHINE LEARNING by Deisenroth, Faisal and Ong [pdf](https://mml-book.github.io/book/mml-book.pdf)  
-
-### Linear Algebra
-### Probability Theory 
-### Numerical Optimization
-
+* Foundations of Data Science by Blum, Hopcroft, and Kannan [pdf](https://home.ttic.edu/~avrim/book.pdf)  
+* Convex Optimization by Boyd and Vandenberghe [pdf](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)  
+* to be continued:-)
