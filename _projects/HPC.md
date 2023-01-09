@@ -146,3 +146,9 @@ There is this book that can give an overall view of the most important topics in
 
 
 # TO BE CONTINUED
+
+
+
+#### General References
+* Introduction to Parallel Programming by Pachaeco and Malensek [Link](https://www.sciencedirect.com/book/9780128046050/an-introduction-to-parallel-programming0  
+* to be continued:-) 
