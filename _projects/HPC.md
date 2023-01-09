@@ -150,5 +150,9 @@ There is this book that can give an overall view of the most important topics in
 
 
 #### General References
-* Introduction to Parallel Programming by Pachaeco and Malensek [Link](https://www.sciencedirect.com/book/9780128046050/an-introduction-to-parallel-programming0  
-* to be continued:-) 
+* Introduction to Parallel Programming by Pachaeco and Malensek [Link](https://www.sciencedirect.com/book/9780128046050/an-introduction-to-parallel-programming)  
+#### Computer Architecture
+* Computer Organization and Design by Patterson and Hennessy [Link](https://www.elsevier.com/books/computer-organization-and-design-risc-v-edition/patterson/978-0-12-820331-6)  
+* Computer Architecture by Patterson and Hennessy [Link](https://www.elsevier.com/books/computer-architecture/hennessy/978-0-12-811905-1)  
+* To be Continued:-) 
+
