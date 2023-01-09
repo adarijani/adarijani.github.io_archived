@@ -140,17 +140,18 @@ There is this book that can give an overall view of the most important topics in
 * [FastX GUI based remote desktop session client](https://www.starnet.com/fastx/)  
 * [Tar wiki](https://en.wikipedia.org/wiki/Tar_(computing)) *** [Tar man page](https://man7.org/linux/man-pages/man1/tar.1.html)  
 * [Slurm Workload Manager wiki](https://en.wikipedia.org/wiki/Slurm_Workload_Manager) *** [Slurm Workload Manager](https://slurm.schedmd.com/)  
+
 ### Exercise 01
 
 
 
 
-# TO BE CONTINUED
 
 
 
 #### General References
 * Introduction to Parallel Programming by Pachaeco and Malensek [Link](https://www.sciencedirect.com/book/9780128046050/an-introduction-to-parallel-programming)  
+
 #### Computer Architecture
 * Computer Organization and Design by Patterson and Hennessy [Link](https://www.elsevier.com/books/computer-organization-and-design-risc-v-edition/patterson/978-0-12-820331-6)  
 * Computer Architecture by Patterson and Hennessy [Link](https://www.elsevier.com/books/computer-architecture/hennessy/978-0-12-811905-1)  
