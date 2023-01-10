@@ -8,8 +8,11 @@ category: teaching
 ---
 
 # UNDER CONSTRUCTION
+
 ### Caution!
+
 The [HPC](https://en.wikipedia.org/wiki/High-performance_computing) is a rapidly changing field. I only update the materials in every iteration I do and therefore it is best to consult multiple sources.
+
 ### [Linux](https://en.wikipedia.org/wiki/Linux)
 The world of [High-performance computing](https://en.wikipedia.org/wiki/High-performance_computing) is dominated by [Supercomputers](https://en.wikipedia.org/wiki/Supercomputer) that 
 have a [Linux](https://en.wikipedia.org/wiki/Linux) [OS](https://en.wikipedia.org/wiki/Operating_system) therefore a bit of [Linux](https://en.wikipedia.org/wiki/Linux) is kind of a [De facto](https://en.wikipedia.org/wiki/De_facto) standard.  
@@ -18,10 +21,13 @@ I suggest that you check some materials beforehand to save yourself from the ago
 #### General References
 * Introduction to Parallel Programming by Pachaeco and Malensek [Link](https://www.sciencedirect.com/book/9780128046050/an-introduction-to-parallel-programming)  
 #### Computer Architecture
+
 * Computer Organization and Design by Patterson and Hennessy [Link](https://www.elsevier.com/books/computer-organization-and-design-risc-v-edition/patterson/978-0-12-820331-6)  
 * Computer Architecture by Patterson and Hennessy [Link](https://www.elsevier.com/books/computer-architecture/hennessy/978-0-12-811905-1)  
 ### 01_Introduction
+
 #### Examples of Supercomputers
+
 [High-Performance Computing](https://en.wikipedia.org/wiki/High-performance_computing)  
 [supercomputer](https://en.wikipedia.org/wiki/Supercomputer)  
 [Computational science](https://en.wikipedia.org/wiki/Computational_science)  
@@ -31,13 +37,17 @@ I suggest that you check some materials beforehand to save yourself from the ago
 [IBM Blue Gene](https://en.wikipedia.org/wiki/IBM_Blue_Gene)  
 [Summit](https://en.wikipedia.org/wiki/Summit_(supercomputer))  
 [Fugaku](https://en.wikipedia.org/wiki/Fugaku_(supercomputer))  
+
 #### TOP500
+
 [Top500](https://en.wikipedia.org/wiki/TOP500)  
 [Benchmark](https://en.wikipedia.org/wiki/Benchmark_(computing))  
 [LINPACK](https://en.wikipedia.org/wiki/LINPACK)  
 [FLOPS](https://en.wikipedia.org/wiki/FLOPS)  
 [LAPACK](https://en.wikipedia.org/wiki/LAPACK)  
+
 #### Why is parallelism important?
+
 [Moore's law](https://en.wikipedia.org/wiki/Moore%27s_law)  
 [Clock rate](https://en.wikipedia.org/wiki/Clock_rate)  
 [Multi-core processor](https://en.wikipedia.org/wiki/Multi-core_processor)  
