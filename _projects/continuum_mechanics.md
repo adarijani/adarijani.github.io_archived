@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Tensor Calculus
-description: Tensor Calculus
-img: assets/img/tensor_calculus.svg
+title: Continuum Mechanics
+description: Continuum Mechanics
+img: assets/img/continuum_mechanics.svg
 importance: 2
 category: teaching
 ---
 # UNDER CONSTRUCTION
 #### Main Reference
 
- * Finite-Dimensional Vector Spaces by Halmos [Link](https://link.springer.com/book/10.1007/978-1-4612-6387-6)  
+ * Nonlinear Continuum Mechanics of Solids by Başar and Weichert [Link](https://link.springer.com/book/10.1007/978-3-662-04299-1)  
 
 #### References for the Brave Souls:-)
 
