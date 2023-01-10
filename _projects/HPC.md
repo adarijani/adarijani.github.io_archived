@@ -14,16 +14,20 @@ category: teaching
 The [HPC](https://en.wikipedia.org/wiki/High-performance_computing) is a rapidly changing field. I only update the materials in every iteration I do and therefore it is best to consult multiple sources.
 
 ### [Linux](https://en.wikipedia.org/wiki/Linux)
+
 The world of [High-performance computing](https://en.wikipedia.org/wiki/High-performance_computing) is dominated by [Supercomputers](https://en.wikipedia.org/wiki/Supercomputer) that 
 have a [Linux](https://en.wikipedia.org/wiki/Linux) [OS](https://en.wikipedia.org/wiki/Operating_system) therefore a bit of [Linux](https://en.wikipedia.org/wiki/Linux) is kind of a [De facto](https://en.wikipedia.org/wiki/De_facto) standard.  
 I suggest that you check some materials beforehand to save yourself from the agony and suffering of not knowing it during the [High-performance computing](https://en.wikipedia.org/wiki/High-performance_computing) course. 
 
 #### General References
+
 * Introduction to Parallel Programming by Pachaeco and Malensek [Link](https://www.sciencedirect.com/book/9780128046050/an-introduction-to-parallel-programming)  
+
 #### Computer Architecture
 
 * Computer Organization and Design by Patterson and Hennessy [Link](https://www.elsevier.com/books/computer-organization-and-design-risc-v-edition/patterson/978-0-12-820331-6)  
 * Computer Architecture by Patterson and Hennessy [Link](https://www.elsevier.com/books/computer-architecture/hennessy/978-0-12-811905-1)  
+
 ### 01_Introduction
 
 #### Examples of Supercomputers
