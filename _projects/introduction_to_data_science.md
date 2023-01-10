@@ -13,7 +13,7 @@ category: teaching
 * Data Mining by Han, Kamber, and Pei [Link](https://www.sciencedirect.com/book/9780123814791/data-mining-concepts-and-techniques)  
 
 
-#### Programming References
+#### Programming Frameworks
 
 * python [Link](https://www.python.org/)  
 * conda [Link](https://docs.conda.io/en/latest/)  
@@ -21,3 +21,5 @@ category: teaching
 * numpy [Link](https://numpy.org/)  
 * pandas [Link](https://pandas.pydata.org/)  
 * matplotlib [Link](https://matplotlib.org/)  
+* TensorFlow [Link](https://www.tensorflow.org/)  
+* Keras [Link](https://keras.io/)  
