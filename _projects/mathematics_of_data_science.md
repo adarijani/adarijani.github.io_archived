@@ -2,7 +2,7 @@
 layout: page
 title: Mathematics of Data Science
 description: Mathematics of Data Science
-img: assets/img/math_of_data_science.svg
+img: assets/img/mathematics_of_data_science.svg
 importance: 2
 category: teaching
 ---
