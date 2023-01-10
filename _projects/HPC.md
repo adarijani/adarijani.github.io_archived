@@ -2,7 +2,7 @@
 layout: page
 title: High-Performance Computing
 description: High-Performance Computing
-img: assets/img/hpc.md
+img: assets/img/hpc.svg
 importance: 3
 category: teaching
 ---
