@@ -7,11 +7,3 @@ importance: 2
 category: teaching
 ---
 # UNDER CONSTRUCTION
-
-#### FEM Part
-
-* to be completed 
-
-#### FVM Part
-
-* to be completed
