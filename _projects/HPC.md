@@ -9,7 +9,7 @@ category: teaching
 
 # UNDER CONSTRUCTION
 ### Caution!
-The [HPC](https://en.wikipedia.org/wiki/High-performance_computing) is a rapidly changing field. I only update the materials in every iteration I do and Therefore it is best to consult multiple sources.
+The [HPC](https://en.wikipedia.org/wiki/High-performance_computing) is a rapidly changing field. I only update the materials in every iteration I do and therefore it is best to consult multiple sources.
 ### [Linux](https://en.wikipedia.org/wiki/Linux)
 The world of [High-performance computing](https://en.wikipedia.org/wiki/High-performance_computing) is dominated by [Supercomputers](https://en.wikipedia.org/wiki/Supercomputer) that 
 have a [Linux](https://en.wikipedia.org/wiki/Linux) [OS](https://en.wikipedia.org/wiki/Operating_system) therefore a bit of [Linux](https://en.wikipedia.org/wiki/Linux) is kind of a [De facto](https://en.wikipedia.org/wiki/De_facto) standard.  
