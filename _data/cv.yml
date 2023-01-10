@@ -92,7 +92,7 @@
         - PDE Based Methods
         - Compression
 
-- title: Courses
+- title: Teaching
   type: nested_list
   contents:
     - title: Math
@@ -103,12 +103,12 @@
 #        - Numerical Methods for Hyperbolic Partial Differential Equations(ETH)
 #        - Linear Algebra I/II(ETH)
         - ...
-    - title: Computer Science
+    - title: Tools
       items:
-#        - High Performance Computing for Science and Engineering I/II(HPCSE I/II)(ETH)
-        -  ...
+        - UNIX/LINUX/POSIX
+        - To be Continued:-)
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Jump Rope, Badminton.
+    - <u>Hobbies:</u> Math, Computers, Jump Rope, Badminton.
