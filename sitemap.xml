@@ -22,10 +22,10 @@
     <loc>https://adarijani.github.io/teaching/</loc>
   </url>
   <url>
-    <loc>https://adarijani.github.io/assets/pdf/short_resume.pdf</loc>
+    <loc>https://adarijani.github.io/assets/pdf/short_resume/short_resume.pdf</loc>
   </url>
   <url>
-    <loc>https://adarijani.github.io/assets/pdf/extended_resume.pdf</loc>
+    <loc>https://adarijani.github.io/assets/pdf/extended_resume/resume.pdf</loc>
   </url>
   <url>
     <loc>https://adarijani.github.io/assets/pdf/BSc_degree.pdf</loc>
@@ -64,34 +64,25 @@
     <loc>https://adarijani.github.io/news/announcement_3/</loc>
   </url>
   <url>
-    <loc>https://adarijani.github.io/projects/asiakadeh/</loc>
-  </url>
-  <url>
-    <loc>https://adarijani.github.io/projects/tara%20school/</loc>
-  </url>
-  <url>
-    <loc>https://adarijani.github.io/blog/2022/Mohammad-Mahdi-Elyasi/</loc>
-  </url>
-  <url>
     <loc>https://adarijani.github.io/asiakadeh-ecotourism-resort/</loc>
   </url>
   <url>
     <loc>https://adarijani.github.io/tara-educational-complex/</loc>
   </url>
   <url>
-    <loc>https://adarijani.github.io/projects/unix%20linux%20posix/</loc>
+    <loc>https://adarijani.github.io/blog/2022/Mohammad-Mahdi-Elyasi/</loc>
   </url>
   <url>
-    <loc>https://adarijani.github.io/blog/2022/</loc>
+    <loc>https://adarijani.github.io/projects/unix_linux_posix/</loc>
+  </url>
+  <url>
+    <loc>https://adarijani.github.io/projects/introduction_to_data_science/</loc>
+  </url>
+  <url>
+    <loc>https://adarijani.github.io/projects/mathematics_of_data_science/</loc>
   </url>
   <url>
     <loc>https://adarijani.github.io/projects/HPC/</loc>
-  </url>
-  <url>
-    <loc>https://adarijani.github.io/blog/tag/memoir/</loc>
-  </url>
-  <url>
-    <loc>https://adarijani.github.io/blog/category/memoir/</loc>
   </url>
   <url>
     <loc>https://adarijani.github.io/asiakadeh-ecotourism-resort/services/</loc>
@@ -137,6 +128,15 @@
   </url>
   <url>
     <loc>https://adarijani.github.io/tara-educational-complex/services/pop-science/</loc>
+  </url>
+  <url>
+    <loc>https://adarijani.github.io/blog/2022/</loc>
+  </url>
+  <url>
+    <loc>https://adarijani.github.io/blog/tag/memoir/</loc>
+  </url>
+  <url>
+    <loc>https://adarijani.github.io/blog/category/memoir/</loc>
   </url>
   <url>
     <loc>https://adarijani.github.io/asiakadeh-ecotourism-resort/team/ali-darijani/</loc>
