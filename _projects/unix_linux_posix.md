@@ -28,6 +28,9 @@ category: teaching
 #### Historical/Cultural References
 * Unix: A History and a Memoir by Brian Kernighan [Link](https://www.cs.princeton.edu/~bwk/memoir.html)  
 * Just for Fun by Linus Torvalds [Link](HarperCollins)  
+* Free Software, Free Society by Richard M. Stallman [pdf](https://www.gnu.org/doc/fsfs3-hardcover.pdf)  
+* Open Sources by Legends of Open Source [pdf](https://smaldone.com.ar/documentos/libros/opensources.pdf)  
+* Open Sources 2.0 by Legends of Open Source [Link](https://www.oreilly.com/library/view/open-sources-20/0596008023/)  
 
 #### My Horsemen of the Apocalypse
 * Hardware: [Apple](https://www.apple.com/mac/)
@@ -35,10 +38,10 @@ category: teaching
 * Hypervisor: [VirtualBox](https://www.virtualbox.org/), [UTM](https://mac.getutm.app/)   
 * OS: [Darwin](https://github.com/apple/darwin-xnu)  
 * Package Manager: [brew](https://brew.sh/)  
-* Terminal Emulator: [kitty](https://sw.kovidgoyal.net/kitty/)  
-* Shell: [zsh](https://www.zsh.org/)  
+* Terminal Emulator: [kitty](https://sw.kovidgoyal.net/kitty/) or [Alacritty](https://alacritty.org/)  
+* Interactive Shell: [zsh](https://www.zsh.org/) Scripting Shell: [bash](https://www.gnu.org/software/bash/)  
 * Zsh Configuration Framework: [ohmyzsh](https://ohmyz.sh/)  
-* Text Editor: [vim](https://www.vim.org/)   
+* Terminal Text Editor: [vim](https://www.vim.org/) GUI Text Editor: [Visual Studio Code](https://code.visualstudio.com/)     
 * Terminal Multiplexer: [tmux](https://github.com/tmux)  
 * Modern Linux Tools: [Modern Linux](https://github.com/ibraheemdev/modern-unix)  
 
