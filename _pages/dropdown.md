@@ -7,5 +7,5 @@ dropdown: true
 children: 
     - title: divider
     - title: projects
-      permalink: /projects/
+      permalink: https://google.com
 ---
