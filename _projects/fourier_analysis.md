@@ -9,4 +9,8 @@ category: teaching
 
 # UNDER CONSTRUCTION
 
+- Fourier Analysis by Stein and Shakarchi [Link](https://press.princeton.edu/books/hardcover/9780691113845/fourier-analysis)
+- to be continued:-)
+
+
 
