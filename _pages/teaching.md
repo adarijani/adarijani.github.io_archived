@@ -10,5 +10,5 @@ nav_order: 5
 
 [comment]: <>(Organize your courses by years, topics, or universities, however you like!)
 
-# UNDER CONSTRUCTION
+# The details and the pages were moved to the projects section under teaching
 
