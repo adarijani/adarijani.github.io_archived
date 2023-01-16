@@ -14,5 +14,14 @@ category: teaching
 - Partial Differential Equations by Evans [Link](https://bookstore.ams.org/view?ProductCode=GSM/19.R)
 - Functions of Bounded Variation and Free Discontinuity Problems by Ambrosio, Fusco, and Pallara [Link](https://global.oup.com/academic/product/functions-of-bounded-variation-and-free-discontinuity-problems-9780198502456?cc=de&lang=en&)
 
+#### Tools for Experimentation
 
+- ImageMagick [Link](https://imagemagick.org/index.php)
+- OpenCV [Link](https://opencv.org/)
+- scikit-image [Link](https://scikit-image.org/)
+- SciPy [Link](https://scipy.org/)
+- ImageJ [Link](https://imagej.net/)
+- TensorFlow [Link](https://www.tensorflow.org/)
+- Keras [Link](https://keras.io/)
+- NumPy [Link](https://numpy.org/)
 
