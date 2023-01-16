@@ -1,15 +1,5 @@
 github_users:
-  - torvalds
-  - nicm
-  - brammool
-  - kovidgoyal
+  - adarijani
 github_repos:
-  - torvalds/linux
-  - apple/darwin-xnu
-  - Homebrew
-  - ohmyzsh/ohmyzsh
-  - alacritty/alacritty
-  - eendroroy/alacritty-theme
-  - tmux
-  - ibraheemdev/modern-unix
-
+  - adarijani/adarijani.github.io
+  - adarijani/book_pandoc_template
