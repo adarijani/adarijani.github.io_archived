@@ -21,7 +21,7 @@ category: teaching
 - Numerical Methods for Conservation Laws by LeVeque [Link](https://link.springer.com/book/10.1007/978-3-0348-5116-9)
 - Finite Volume Methods for Hyperbolic Problems by LeVeque [Link](https://www.cambridge.org/core/books/finite-volume-methods-for-hyperbolic-problems/97D5D1ACB1926DA1D4D52EAD6909E2B9)
 - Partial Differential Equations by Evans [Link](https://bookstore.ams.org/view?ProductCode=GSM/19.R)
-- - Numerical Treatment of Partial Differential Equations  by Grossmann, Roos, and Stynes [Link](https://link.springer.com/book/10.1007/978-3-540-71584-9)
+- Numerical Treatment of Partial Differential Equations  by Grossmann, Roos, and Stynes [Link](https://link.springer.com/book/10.1007/978-3-540-71584-9)
 
 #### Experimentation Tools
 
