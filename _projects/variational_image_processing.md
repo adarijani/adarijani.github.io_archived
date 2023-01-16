@@ -7,7 +7,12 @@ importance: 2
 category: teaching
 ---
 
-# UNDER CONSTRUCTION
+#### References
+
+- Linear Functional Analysis  by Alt [Link](https://link.springer.com/book/10.1007/978-1-4471-7280-2)
+- Mathematical Image Processing  by Bredies and Lorenz [Link](https://link.springer.com/book/10.1007/978-3-030-01458-2)
+- Partial Differential Equations by Evans [Link](https://bookstore.ams.org/view?ProductCode=GSM/19.R)
+- Functions of Bounded Variation and Free Discontinuity Problems by Ambrosio, Fusco, and Pallara [Link](https://global.oup.com/academic/product/functions-of-bounded-variation-and-free-discontinuity-problems-9780198502456?cc=de&lang=en&)
 
 
 
