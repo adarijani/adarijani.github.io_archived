@@ -6,7 +6,11 @@ img: assets/img/svg/numerical_ode.svg
 importance: 12
 category: teaching
 ---
-# UNDER CONSTRUCTION
+
+#### References
+
+- Solving Ordinary Differential Equations I  by Hairer and Wanner [Link](https://link.springer.com/book/10.1007/978-3-540-78862-1)
+- Solving Ordinary Differential Equations II by Hairer and Wanner [Link](https://link.springer.com/book/10.1007/978-3-642-05221-7)
 
 
 #### Experimentation Tools
