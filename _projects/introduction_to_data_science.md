@@ -3,7 +3,7 @@ layout: page
 title: Introduction to Data Science
 description: Introduction to Data Science
 img: assets/img/svg/introduction_to_data_science.svg
-importance: 2
+importance: 12
 category: teaching
 ---
 
