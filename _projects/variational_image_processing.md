@@ -3,7 +3,7 @@ layout: page
 title: Variational Image Processing
 description: Variational Image Processing
 img: assets/img/svg/variational.svg
-importance: 2
+importance: 12
 category: teaching
 ---
 
