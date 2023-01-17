@@ -2,7 +2,7 @@
 layout: page
 title: Markdown, AsciiDoc, TeX, and LaTeX
 description: Continuum Mechanics
-img: assets/img/svg/continuum_mechanics.svg
+img: assets/img/svg/tex.svg
 importance: 14
 category: teaching
 ---
