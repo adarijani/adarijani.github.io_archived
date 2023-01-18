@@ -4,7 +4,7 @@ title: activities
 permalink: /activities/
 description: A growing collection of your cool projects.
 nav: true
-nav_order: 0
+nav_order: 2
 display_categories: [personal plans, personal business, teaching, work]
 horizontal: false
 ---
