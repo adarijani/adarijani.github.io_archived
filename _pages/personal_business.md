@@ -2,7 +2,7 @@
 layout: page
 title: personal business
 permalink: /personal business/
-description: A growing collection of your cool projects.
+description: List of Businesses I Launched During the Years
 nav: true
 nav_order: 3
 display_categories: [personal business]
