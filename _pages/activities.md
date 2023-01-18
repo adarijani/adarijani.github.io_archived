@@ -1,11 +1,11 @@
 ---
 layout: page
-title: teaching
-permalink: /teaching/
+title: activities
+permalink: /activities/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 2
-display_categories: [teaching]
+display_categories: [personal plans, personal business, teaching, work]
 horizontal: false
 ---
 
