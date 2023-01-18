@@ -16,4 +16,4 @@ So my plan is to self-taugth myself an MBA. I am gonna use the [Stanford Busines
 - Financial Accounting by WEYGANDT, KIMMEL, and KIESO [Link](https://www.wiley.com/en-gb/Financial+Accounting+with+International+Financial+Reporting+Standards%2C+5th+Edition-p-9781119787006)
 - to be continued:-)
 
-##### I Have NO Idea of What Comes Next :-)
+###### I Have NO Idea of What Comes Next :-)
