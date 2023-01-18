@@ -8,7 +8,7 @@ importance: 1
 category: teaching
 ---
 
-#### General/Offline/Classic Style
+#### General/Offline/Classic
 
 
 
