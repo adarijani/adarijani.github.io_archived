@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Numerical Methods in Ordinary Differential Equations
-description: Numerical Methods in Ordinary Differential Equations
-img: assets/img/svg/numerical_ode.svg
-importance: 12
-category: teaching
+title: MBA Self Taught
+description:  MBA Self Taught
+img: assets/img/svg/mba.svg
+importance: 1
+category: personal plans
 ---
 
 #### References
