@@ -1,9 +1,11 @@
 ---
 layout: page
-title: MBA; Self Taught
-description:  MBA; Self Taught
-img: assets/img/svg/mba.svg
-importance: 2
-category: personal plans
+title: book
+description: book
+img: assets/img/svg/tux.svg
+redirect: [https://github.com/adarijani/adarijani.github.io](https://raw.githubusercontent.com/adarijani/book_pandoc_template/main/build/pdf/book.pdf)
+importance: 1
+category: work
 ---
 
+### ONLY A REDIRECTION
