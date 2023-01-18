@@ -7,16 +7,13 @@ importance: 1
 category: personal plans
 ---
 
-#### References
+#### Plan
 
-- Solving Ordinary Differential Equations I  by Hairer and Wanner [Link](https://link.springer.com/book/10.1007/978-3-540-78862-1)
-- Solving Ordinary Differential Equations II by Hairer and Wanner [Link](https://link.springer.com/book/10.1007/978-3-642-05221-7)
+So my plan is to self-taugth myself an MBA. I am gonna use the [Stanford Business School Course List](https://bulletin.stanford.edu/departments/GSB/courses) and get on them.
 
+##### Financial Accounting
 
-#### Experimentation Tools
+- Financial Accounting by WEYGANDT, KIMMEL, and KIESO [Link](https://www.wiley.com/en-gb/Financial+Accounting+with+International+Financial+Reporting+Standards%2C+5th+Edition-p-9781119787006)
+- to be continued:-)
 
-- gnuplot [Link](http://www.gnuplot.info/)
-- python [Link](https://www.python.org/) scipy [Link](https://scipy.org/) numpy [Link](https://numpy.org/) matplotlib [Link](https://matplotlib.org/)
-- eigen [Link](https://eigen.tuxfamily.org/index.php?title=Main_Page)
-- lapack [Link](https://netlib.org/lapack/)
-- Matrix Market [Link](https://math.nist.gov/MatrixMarket/)
+#####
