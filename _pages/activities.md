@@ -2,7 +2,7 @@
 layout: page
 title: activities
 permalink: /activities/
-description: A growing collection of your cool projects.
+description: List of personal plans that I currently working on
 nav: true
 nav_order: 2
 display_categories: [personal plans]
