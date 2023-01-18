@@ -1,9 +1,9 @@
 ---
 layout: page
-title: book
-description: book
+title: pandoc book template
+description: pandoc book template
 img: assets/img/svg/tux.svg
-redirect: https://raw.githubusercontent.com/adarijani/book_pandoc_template/main/build/pdf/book.pdf
+redirect: https://github.com/adarijani/book_pandoc_template
 importance: 1
 category: personal plans
 ---
