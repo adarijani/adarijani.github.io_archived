@@ -28,6 +28,7 @@ category: teaching
 - Linux from Scratch [Link](https://www.linuxfromscratch.org/lfs/downloads/stable/LFS-BOOK-11.2.pdf)
 - Filesystem Hierarchy Standard [pdf](https://refspecs.linuxfoundation.org/FHS_3.0/fhs-3.0.pdf)
 - DistroWatch [Link](https://distrowatch.com/)
+- Online REGEX Trainer [Link](https://regex101.com/)
 
 #### Historical/Cultural References
 - Unix: A History and a Memoir by Brian Kernighan [Link](https://www.cs.princeton.edu/~bwk/memoir.html)
