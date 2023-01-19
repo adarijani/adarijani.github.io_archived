@@ -9,5 +9,9 @@ category: teaching
 
 #### Search Engines
 
-- google
+- [google](https://www.google.com/)
+  * [Advanced Google Search](https://ahrefs.com/blog/google-advanced-search-operators/)
+- [bing](https://www.bing.com/)
+
+#### Email
 
