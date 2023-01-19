@@ -9,9 +9,18 @@ category: teaching
 
 #### Search Engines
 
-- [google](https://www.google.com/)
+- [Google](https://www.google.com/)
   * [Advanced Google Search](https://ahrefs.com/blog/google-advanced-search-operators/)
 - [bing](https://www.bing.com/)
+- [DuckDuckGo](https://duckduckgo.com/)
 
-#### Email
+#### Email Services
 
+- [Gmail](https://www.google.com/gmail/about/)
+
+### Cloud Services
+
+- [pCloud](https://www.pcloud.com/)
+
+
+continued:-)
