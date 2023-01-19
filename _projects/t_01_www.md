@@ -10,7 +10,7 @@ category: teaching
 #### Search Engines
 
 - [Google](https://www.google.com/)
-  * [Advanced Google Search](https://ahrefs.com/blog/google-advanced-search-operators/)
+  * Advanced Google Search [pdf](https://kak.kornev-online.net/FILES/KAK%20-%2026%20Top%20Advanced%20Google%20Search%20Tips%20n%20Tricks%20and%20Techniques.pdf)
 - [bing](https://www.bing.com/)
 - [DuckDuckGo](https://duckduckgo.com/)
 
