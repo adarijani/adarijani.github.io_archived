@@ -4,7 +4,7 @@ title: MBA; Self Taught
 description:  MBA; Self Taught
 img: assets/img/svg/mba.svg
 importance: 1
-category: personal plans
+category: ongoing
 ---
 
 #### Plan
