@@ -3,7 +3,7 @@ layout: page
 title: UNIX/LINUX/POSIX
 description: UNIX/LINUX/POSIX
 img: assets/img/svg/tux.svg
-importance: 1
+importance: 2
 category: teaching
 ---
 
