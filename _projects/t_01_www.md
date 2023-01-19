@@ -21,6 +21,8 @@ category: teaching
 ### Cloud Services
 
 - [pCloud](https://www.pcloud.com/)
-
+- [iCloud](https://www.icloud.com/)
+- [Dropbox](https://www.dropbox.com/)
+- [Google Drive](https://www.google.com/drive/)
 
 continued:-)
