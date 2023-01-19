@@ -18,7 +18,12 @@ category: teaching
 
 - [Gmail](https://www.google.com/gmail/about/)
 
-### Cloud Services
+#### Email Clients
+
+- [Thunderbird](https://www.thunderbird.net)
+- [Outlook](https://outlook.live.com/owa/)
+
+#### Cloud Services
 
 - [pCloud](https://www.pcloud.com/)
 - [iCloud](https://www.icloud.com/)
