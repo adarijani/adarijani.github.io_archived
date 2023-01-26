@@ -14,5 +14,6 @@ So my plan is to self-taugth myself an MBA. I am gonna use the [Stanford Busines
 ##### Accounting
 
 - Accounting Principles by WEYGANDT, KIMMEL, and MITCHELL [Link](https://www.wiley.com/en-us/Accounting+Principles%2C+14th+Edition-p-9781119707080)
+- GnuCash [Link](https://www.gnucash.org/)
 
 ###### I Have NO Idea of What Comes Next :-)
