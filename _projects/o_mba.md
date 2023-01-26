@@ -9,7 +9,7 @@ category: ongoing
 
 #### Plan
 
-So my plan is to self-taugth myself an MBA. I am gonna use the [Stanford Business School Course List](https://bulletin.stanford.edu/departments/GSB/courses) and get on them.
+So my plan is to self-taugth myself an MSc in Finance and an MBA. I am gonna use the [Stanford Business School Course List](https://bulletin.stanford.edu/departments/GSB/courses) and get on them.
 
 ##### Accounting
 
