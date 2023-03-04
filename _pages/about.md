@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p> <a href='mailto:ali.darijani.me@gmail.com'> ali.darijani.me@gmail.com </a> </p>
+    <p> <a href='mailto:mamindarijani@gmail.com'> ali.darijani.me@gmail.com </a> </p>
     <p> <a href='tel:+4917642743283'> +4917642743283 </a> </p>
     <p> <a href='https://goo.gl/maps/k26ohyjwZuf9Vt949'> Aachen, Germany </a> </p>
 
