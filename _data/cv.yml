@@ -2,20 +2,20 @@
   type: map
   contents:
     - name: Full Name
-      value: Ali Darijani
+      value: Mohammadamin Darijani
     - name: Email
-      value: <a href="mailto:ali.darijani.me@gmail.com"> ali.darijani.me@gmail.com </a> 
+      value: <a href="mailto:mamindarijani@gmail.com"> mamindarijani@gmail.com </a> 
     - name: Location
-      value: <a href="https://goo.gl/maps/PwUo6KxBSsC5srt16"> Aachen, Germany </a>
+      value: <a href="https://www.google.com/maps/place/Kerman,+Kerman+Province/@30.273051,57.0662499,12z/data=!3m1!4b1!4m6!3m5!1s0x3f021851dbb1d0d1:0xcd1f7455f5d78eb6!8m2!3d30.2839379!4d57.0833628!16zL20vMDNncGtn"> Kerman, Iran </a>
 #    - name: Date of Birth
-#      value: 21st of April, 1992
+#      value: 21st of April, 1997
 #    - name: Languages
 #      value: English
 
 - title: Education
   type: time_table
   contents:
-    - title: MSc
+    - title: Doctorate Degree in Dentistry
       institution: <a href="https://www.rwth-aachen.de/go/id/a/?lidx=1"> RWTH Aachen University </a> 
 #      year:
 #      description:
