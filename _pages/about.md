@@ -18,10 +18,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Mechanical Engineer turned Simulation Scientist turned ML Engineer. Generally interested in Numerical Math be it deterministic or stochastic and its implementation in a high-performance fashion.  
-    Likes [Darwin](https://github.com/apple/darwin-xnu) and in turn [MacBooks](https://www.apple.com/mac/).
- His Five:-) horsemen of the Apocalypse are the [said OS](https://github.com/apple/darwin-xnu), [zsh](https://www.zsh.org), [Alacritty](https://alacritty.org/), [tmux](https://github.com/tmux/), and [vim](https://www.vim.org) for handling the workflow.  
-Owes a great debt to [S. Shahshahani](http://sharif.ir/~shahshah/), [M. Jalali](https://sites.google.com/site/mirabbasjalali/home?pli=1), [S. Rezaei](http://sina.sharif.edu/~srezaei/), [M. Itskov](https://www.km.rwth-aachen.de/cms/KM/Das-Lehr-und-Forschungsgebiet/Team/Leitung/~qpvr/Mikhail-Itskov/?allou=1&mobile=1&lidx=1), [N. Tager](https://www.sz.rwth-aachen.de/cms/SZ/Das-Sprachenzentrum/Unser-Team/~iinn/Mitarbeiter-CAMPUS-/?gguid=0x446EA780660F524D9C00FBBD05DBC761&allou=1), and finally [B. Berkels](https://www.igpm.rwth-aachen.de/team/berkels).
+Welcome to my personal web page! My name is Mohammadamin Darijani and I am a health professional with a doctorate degree in dentistry. My passion for improving public health and exploring the intersection of healthcare and technology has led me to develop an interest in digital health.
+
+Throughout my career, I have been dedicated to promoting oral health and reducing oral health inequality. As a dentist, I have seen firsthand the impact of socioeconomic determinants on oral health and the challenges faced by marginalized and vulnerable populations. I believe that digital health has the potential to play a transformative role in addressing these issues and improving overall health outcomes.
+
+On this page, I share my thoughts and experiences related to digital health and its applications in public health and dentistry. I also provide resources and information on oral health and the importance of preventative care. Thank you for visiting and I hope you find this page informative and helpful.
 
 
 
