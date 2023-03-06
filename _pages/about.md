@@ -38,10 +38,6 @@ On this page, I share my thoughts and experiences related to digital health and 
 ##### Degrees Certificate and Transcripts
 [Doctorate Certificate]({{ site.url }}/assets/pdf/BSc_degree.pdf)  
 [Doctorate Transcripts]({{ site.url }}/assets/pdf/Transcripts_bachelor.pdf)  
-[Pre-University Studies Certificate]({{ site.url }}/assets/pdf/Transcripts_master.pdf)  
-[Pre-University Studies Transcripts]({{ site.url }}/assets/pdf/Transcripts_master.pdf)
-[Secondry Education Certificate]({{ site.url }}/assets/pdf/Transcripts_master.pdf)
-[Secondry Education Transcripts]({{ site.url }}/assets/pdf/Transcripts_master.pdf)
 ##### Skills
 
 Research:
