@@ -5,7 +5,7 @@ description: Asiakadeh Ecotourism Resort
 img: assets/img/jpg/asiakadeh.jpg
 redirect: https://adarijani.github.io/asiakadeh-ecotourism-resort/
 importance: 1
-category: Experiences
+category: professional experiences
 ---
 
 ### construction
