@@ -10,8 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p> <a href='mailto:mamindarijani@gmail.com'> ali.darijani.me@gmail.com </a> </p>
-    <p> <a href='tel:+4917642743283'> +4917642743283 </a> </p>
-    <p> <a href='https://goo.gl/maps/k26ohyjwZuf9Vt949'> Aachen, Germany </a> </p>
+    <p> <a href='tel:+989210370737'> +989210370737 </a> </p>
+    <p> <a href='https://www.google.com/maps/place/Tehran,+Tehran+Province,+Iran/@35.7075737,51.3476552,11z/data=!3m1!4b1!4m6!3m5!1s0x3f8e00491ff3dcd9:0xf0b3697c567024bc!8m2!3d35.7218583!4d51.3346954!16zL20vMGZ0bHg'> Tehran, Iran </a> </p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
