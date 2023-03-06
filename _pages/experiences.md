@@ -1,6 +1,6 @@
 ---
 layout: page
-title: experiences
+title: Experiences
 permalink: /experiences/
 description: List of Personal & Professional Experiences that I had During the Years
 nav: true
