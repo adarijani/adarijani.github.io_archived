@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Experiences
+title: experiences
 permalink: /experiences/
 description: List of Personal & Professional Experiences that I had During the Years
 nav: true
 nav_order: 3
-display_categories: [professional experiences, personal experiences]
+display_categories: [Professional Experiences, Personal Experiences]
 horizontal: false
 ---
 
