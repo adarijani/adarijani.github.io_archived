@@ -1,6 +1,6 @@
 ---
 layout: page
-title: activities
+title: Activities
 permalink: /activities/
 description: List of personal plans that I am currently working on
 nav: true
