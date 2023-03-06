@@ -5,15 +5,15 @@ nav: true
 nav_order: 6
 dropdown: true
 children: 
-    - title: google
-      permalink: https://google.com
+    - title: Cochrane
+      permalink: https://www.cochrane.org/
+    - title: Cochrane Iran
+      permalink: [https://www.cochrane.org/](https://iran.cochrane.org/)
     - title: divider
-    - title: WIKIPEDIA
+    - title: Wikipedia
       permalink: https://www.wikipedia.org
     - title: divider
-    - title: stack exchange
-      permalink: https://stackexchange.com/
-    - title: divider
-    - title: Linux Professional Institute
-      permalink: https://www.lpi.org
+    - title: Google
+      permalink: https://www.google.com/
+
 ---
