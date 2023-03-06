@@ -42,17 +42,20 @@ On this page, I share my thoughts and experiences related to digital health and 
 [Pre-University Studies Transcripts]({{ site.url }}/assets/pdf/Transcripts_master.pdf)
 [Secondry Education Certificate]({{ site.url }}/assets/pdf/Transcripts_master.pdf)
 [Secondry Education Transcripts]({{ site.url }}/assets/pdf/Transcripts_master.pdf)
-##### Programming Certificates
-[C++ by Dr. Klaus Iglberger]({{ site.url }}/assets/pdf/C++22.pdf)  
-[Kaggle(All)]({{ site.url }}/assets/pdf/kaggle.pdf)  
+##### Skills
+
+Research:
+1. Scientific Proposal Writing 2. Designing Scientific Studies (observational, experimental, clinical trial, and review) 3. Data Extraction & Data Entry (into spreadsheets and statistical software) 4. Data Analysis (qualitative and quantitative analysis)
+Computer & Data Management:
+1. Statistical Software and Programming Languages (SPSS: Intermediate Level / R Studio, Python, Stata, CMA: Basic Knowledge) 2. Content Management Systems and Web Developing (WordPress: Intermediate Level, Drupal: Intermediate Level) 3. Reference Management Software (Mendeley: Proficient, EndNote: Intermediate Level) 4. Microsoft Office 
+
 ##### English Certificate
 [TOEFL(Test of English as a Foreign Language) by ETS](https://drive.google.com/file/d/1L8bQB3dtSp5eHrdgO8KFvlKWHw-D9tqj/view?usp=share_link) 
 ##### Letters of Recommendation
-[Dr. Masoud Parirokh (Full Professor, DDS, M.Sc.)]({{ site.url }}/assets/pdf/letter_of_recommendation_01.pdf)  
-[Dr. Elham Farokh Gisour (Associated Professor, DDS, M.Sc.)]({{ site.url }}/assets/pdf/letter_of_recommendation_02.pdf)  
+[Dr. Masoud Parirokh (Full Professor, DDS, M.Sc.)](https://drive.google.com/file/d/1Dkt_L-b_LxQrl7CBdZ1VEnoWOtn3zyKK/view?usp=share_link)  
+[Dr. Elham Farokh Gisour (Associated Professor, DDS, M.Sc.)](https://drive.google.com/file/d/1Qf5PIwY-x6z6rvFKdgKMYaw-chgOVztD/view?usp=share_link)  
 
 
-    <p> <a href='https://scholar.google.com/citations?user=W2X03icAAAAJ&hl=en&oi=ao'> [Dr. Masoud Parirokh (Full Professor, DDS, M.Sc.)] </a> </p> ({{ site.url }}/assets/pdf/letter_of_recommendation_01.pdf)  
 
 
 
