@@ -1,7 +1,7 @@
 ---
 layout: page
-title: teaching
-permalink: /teaching/
+title: Learning
+permalink: /learning/
 description: Collection of Materials I used for Learning/Teaching/Workshops
 nav: true
 nav_order: 4
