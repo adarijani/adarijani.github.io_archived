@@ -1,11 +1,11 @@
 ---
 layout: page
-title: personal business
-permalink: /personal business/
-description: List of Businesses I Launched During the Years
+title: Experiences (Personal & Professional)
+permalink: /Experiences (Personal & Professional)/
+description: List of Experiences that I had During the Years
 nav: true
 nav_order: 3
-display_categories: [personal business]
+display_categories: [Experiences (Personal & Professional)]
 horizontal: false
 ---
 
