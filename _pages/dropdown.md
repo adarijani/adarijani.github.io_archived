@@ -8,7 +8,7 @@ children:
     - title: Cochrane
       permalink: https://www.cochrane.org/
     - title: Cochrane Iran
-      permalink: [https://www.cochrane.org/](https://iran.cochrane.org/)
+      permalink: https://iran.cochrane.org/
     - title: divider
     - title: Wikipedia
       permalink: https://www.wikipedia.org
