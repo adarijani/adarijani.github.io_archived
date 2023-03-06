@@ -32,13 +32,16 @@ On this page, I share my thoughts and experiences related to digital health and 
 
 
 
-##### Short/Extended Resume
-[short resume](https://raw.githubusercontent.com/adarijani/job_hunting/main/LaTeX_templates/short_resume/short_resume.pdf)  
-[extended resume](https://raw.githubusercontent.com/adarijani/job_hunting/main/LaTeX_templates/extended_resume/resume.pdf)
-##### Degrees and Transcripts
-[BSc Degree]({{ site.url }}/assets/pdf/BSc_degree.pdf)  
-[Bachelor Transcripts]({{ site.url }}/assets/pdf/Transcripts_bachelor.pdf)  
-[Master Transcripts]({{ site.url }}/assets/pdf/Transcripts_master.pdf)  
+##### CV/Resume
+[Curriculum Vitae](https://drive.google.com/file/d/10CaE62SCxMwSfPhmFCNJbpt4Rbko7hRS/view?usp=share_link)  
+[Resume](https://drive.google.com/file/d/1qtIZU1ph_XFNdA312VnQZl8ud3zMy1Hx/view?usp=share_link)
+##### Degrees Certificate and Transcripts
+[Doctorate Certificate]({{ site.url }}/assets/pdf/BSc_degree.pdf)  
+[Doctorate Transcripts]({{ site.url }}/assets/pdf/Transcripts_bachelor.pdf)  
+[Pre-University Studies Certificate]({{ site.url }}/assets/pdf/Transcripts_master.pdf)  
+[Pre-University Studies Transcripts]({{ site.url }}/assets/pdf/Transcripts_master.pdf)
+[Secondry Education Certificate]({{ site.url }}/assets/pdf/Transcripts_master.pdf)
+[Secondry Education Transcripts]({{ site.url }}/assets/pdf/Transcripts_master.pdf)
 ##### Programming Certificates
 [C++ by Dr. Klaus Iglberger]({{ site.url }}/assets/pdf/C++22.pdf)  
 [Kaggle(All)]({{ site.url }}/assets/pdf/kaggle.pdf)  
