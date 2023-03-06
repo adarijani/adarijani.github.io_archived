@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Holding a Doctorate Degree in Dentistry from <a href='https://en.wikipedia.org/wiki/Kerman_University_of_Medical_Sciences'> Kerman University of Medical Sciences </a>, <a href='https://www.google.com/maps/place/Kerman,+Kerman+Province,+Iran/@30.2766089,56.9968987,12z/data=!4m6!3m5!1s0x3f021851dbb1d0d1:0xcd1f7455f5d78eb6!8m2!3d30.2839379!4d57.0833628!16zL20vMDNncGtn'> Kerman, Iran </a>
 
