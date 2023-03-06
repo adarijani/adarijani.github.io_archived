@@ -5,7 +5,7 @@ permalink: /Experiences/
 description: List of Personal & Professional Experiences that I had During the Years
 nav: true
 nav_order: 3
-display_categories: [Experiences]
+display_categories: [experiences]
 horizontal: false
 ---
 
