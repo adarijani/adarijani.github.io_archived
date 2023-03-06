@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Experiences (Personal & Professional)
-permalink: /Experiences (Personal & Professional)/
+title: Experiences
+permalink: /Experiences/
 description: List of Experiences that I had During the Years
 nav: true
 nav_order: 3
