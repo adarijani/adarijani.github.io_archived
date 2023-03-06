@@ -45,17 +45,14 @@ On this page, I share my thoughts and experiences related to digital health and 
 ##### Programming Certificates
 [C++ by Dr. Klaus Iglberger]({{ site.url }}/assets/pdf/C++22.pdf)  
 [Kaggle(All)]({{ site.url }}/assets/pdf/kaggle.pdf)  
-##### English Certificates
-[TOEFL(Test of English as a Foreign Language) by ETS]({{ site.url }}/assets/pdf/TOEFL.pdf)  
-[GRE(Graduate Record Examinations) by ETS]({{ site.url }}/assets/pdf/GRE.pdf)  
-[CAE Preparation Course by RWTH Aachen University]({{ site.url }}/assets/pdf/english_certificate_c1_CAE_preparation_course.pdf)  
-[Advanced English for Academic Purposes by RWTH Aachen University]({{ site.url }}/assets/pdf/english_certificate_c1_advanced_academic_english.pdf)  
+##### English Certificate
+[TOEFL(Test of English as a Foreign Language) by ETS](https://drive.google.com/file/d/1L8bQB3dtSp5eHrdgO8KFvlKWHw-D9tqj/view?usp=share_link) 
 ##### Letters of Recommendation
-[Prof. Mohammad Behshad Shafii of Sharif University of Technology]({{ site.url }}/assets/pdf/letter_of_recommendation_01.pdf)  
-[Prof. Ali Moosavi of Sharif University of Technology]({{ site.url }}/assets/pdf/letter_of_recommendation_02.pdf)  
+[Dr. Masoud Parirokh (Full Professor, DDS, M.Sc.)]({{ site.url }}/assets/pdf/letter_of_recommendation_01.pdf)  
+[Dr. Elham Farokh Gisour (Associated Professor, DDS, M.Sc.)]({{ site.url }}/assets/pdf/letter_of_recommendation_02.pdf)  
 
 
-
+    <p> <a href='https://scholar.google.com/citations?user=W2X03icAAAAJ&hl=en&oi=ao'> [Dr. Masoud Parirokh (Full Professor, DDS, M.Sc.)] </a> </p> ({{ site.url }}/assets/pdf/letter_of_recommendation_01.pdf)  
 
 
 
