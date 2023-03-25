@@ -41,9 +41,14 @@ On this page, I share my thoughts and experiences related to digital health and 
 ##### Skills
 
 Research:
-1. Scientific Proposal Writing 2. Designing Scientific Studies (observational, experimental, clinical trial, and review) 3. Data Extraction & Data Entry (into spreadsheets and statistical software) 4. Data Analysis (qualitative and quantitative analysis)
+* Scientific Proposal Writing 2. Designing Scientific Studies (observational, experimental, clinical trial, and review) 3. Data Extraction & Data Entry (into spreadsheets and statistical software) 4. Data Analysis (qualitative and quantitative analysis)
 Computer & Data Management:
-1. Statistical Software and Programming Languages (SPSS: Intermediate Level / R Studio, Python, Stata, CMA: Basic Knowledge) 2. Content Management Systems and Web Developing (WordPress: Intermediate Level, Drupal: Intermediate Level) 3. Reference Management Software (Mendeley: Proficient, EndNote: Intermediate Level) 4. Microsoft Office 
+* Statistical Software and Programming Languages 
+  - SPSS: Intermediate Level 
+  - R Studio 
+  - Python 
+  - Stata 
+  - CMA: Basic Knowledge) 2. Content Management Systems and Web Developing (WordPress: Intermediate Level, Drupal: Intermediate Level) 3. Reference Management Software (Mendeley: Proficient, EndNote: Intermediate Level) 4. Microsoft Office 
 
 ##### English Certificate
 [TOEFL(Test of English as a Foreign Language) by ETS](https://drive.google.com/file/d/1L8bQB3dtSp5eHrdgO8KFvlKWHw-D9tqj/view?usp=share_link) 
