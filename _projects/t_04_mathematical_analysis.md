@@ -7,20 +7,27 @@ importance: 4
 category: teaching
 ---
 
-#### American Style 01
 
-- Analysis I by Tao [Link](https://link.springer.com/book/10.1007/978-981-10-1789-6)
-- Analysis II  by Tao [Link](https://link.springer.com/book/10.1007/978-981-10-1804-6)
 
-#### Russian Style 01
+#### Complete Course 01(Russian Style)
 
-- Mathematical Analysis I by Zorich [Link](https://link.springer.com/book/10.1007/978-3-662-48792-1)
-- Mathematical Analysis II by Zorich [Link](https://link.springer.com/book/10.1007/978-3-662-48993-2)
+- Mathematical Analysis 01 by Zorich [Link](https://link.springer.com/book/10.1007/978-3-662-48792-1)
+- Mathematical Analysis 02 by Zorich [Link](https://link.springer.com/book/10.1007/978-3-662-48993-2)
 
-#### Russian Style 02
+#### Complete Course 02(Russian Style)
 
-- Real Analysis (Foundations and Functions of One Variable) by Laczkovich and Sos [Link](https://link.springer.com/book/10.1007/978-1-4939-2766-1)
-- Real Analysis (Series, Functions of Several Variables, and Applications) by Laczkovich and Sos [Link](https://link.springer.com/book/10.1007/978-1-4939-7369-9)
+- Real Analysis 01 by Laczkovich and Sos [Link](https://link.springer.com/book/10.1007/978-1-4939-2766-1)
+- Real Analysis 02 by Laczkovich and Sos [Link](https://link.springer.com/book/10.1007/978-1-4939-7369-9)
+
+#### Complete Course 03(American Style)
+
+- Analysis 01 by Tao [Link](https://link.springer.com/book/10.1007/978-981-10-1789-6)
+- Analysis 02  by Tao [Link](https://link.springer.com/book/10.1007/978-981-10-1804-6)
+
+#### Complete Course 04(American Style)
+
+- Analysis 01 by Ghorpade and Limaye [Link](https://link.springer.com/book/10.1007/978-3-030-01400-1)
+- Analysis 02 by Ghorpade and Limaye [Link](https://link.springer.com/book/10.1007/978-1-4419-1621-1)
 
 #### Tools for Experimentation
 
