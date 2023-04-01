@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Master Student at <a href='https://www.rwth-aachen.de/go/id/a/?lidx=1'> RWTH Aachen University </a>, <a href='https://goo.gl/maps/k26ohyjwZuf9Vt949'> Aachen, Germany </a>
+subtitle: MSc in Simulation Sciences, <a href='https://www.rwth-aachen.de/go/id/a/?lidx=1'> RWTH Aachen University </a>, <a href='https://goo.gl/maps/k26ohyjwZuf9Vt949'> Aachen, Germany </a>
 
 profile:
   align: right
