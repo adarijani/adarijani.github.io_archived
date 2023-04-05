@@ -20,12 +20,20 @@ category: teaching
  
 #### Tools for Experimentation
 
-* ImageMagick [Link](https://imagemagick.org/index.php)
-* OpenCV [Link](https://opencv.org/)
-* scikit-image [Link](https://scikit-image.org/)
+* NumPy [Link](https://numpy.org/)
 * SciPy [Link](https://scipy.org/)
+* scikit-image [Link](https://scikit-image.org/)
+* OpenCV [Link](https://opencv.org/)
 * ImageJ [Link](https://imagej.net/)
 * TensorFlow [Link](https://www.tensorflow.org/)
 * Keras [Link](https://keras.io/)
-* NumPy [Link](https://numpy.org/)
 * PyTorch [Link](https://pytorch.org/)
+* ImageMagick [Link](https://imagemagick.org/index.php)
+
+
+
+
+
+
+
+
