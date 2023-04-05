@@ -7,7 +7,7 @@ importance: 12
 category: teaching
 ---
 
-#### References
+#### Math References
 
 * The Mathematics of Signal Processing by Damelin, Miller [Link](https://www.cambridgebookshop.co.uk/products/the-mathematics-of-signal-processing)
 * A Wavelet Tour of Signal Processing by Mallat [Link](https://www.elsevier.com/books/a-wavelet-tour-of-signal-processing/mallat/978-0-12-374370-1)
@@ -17,6 +17,11 @@ category: teaching
 * Mathematical Problems in Image Processing by Aubert, Kornprobst [Link](https://link.springer.com/book/10.1007/978-0-387-44588-5)
 * Image Processing and Analysis by Chan, Shen [Link](https://epubs.siam.org/doi/book/10.1137/1.9780898717877)
 * Digital Image Processing by Gonzalez and Woods [Link](https://www.pearson.com/en-us/subject-catalog/p/digital-image-processing/P200000003224?view=educator)
+
+#### Hands-on References
+
+* Deep Learning with Python by Chollet [Link](https://www.oreilly.com/library/view/deep-learning-with/9781617296864/)
+* Deep Learning with PyTorch by Stevens, Antiga, and Viehmann [Link](https://www.oreilly.com/library/view/deep-learning-with/9781617295263AU/)
  
 #### Tools for Experimentation
 
