@@ -2,7 +2,7 @@
 layout: page
 title: teaching
 permalink: /teaching/
-description: Collection of Materials I used for Learning/Teaching/Workshops
+description: Collection of Materials I use/used for Learning
 nav: true
 nav_order: 4
 display_categories: [teaching]
