@@ -1,7 +1,7 @@
 ---
 layout: page
-title: teaching
-permalink: /teaching/
+title: learning
+permalink: /learning/
 description: Collection of Materials I use/used for Learning
 nav: true
 nav_order: 4
