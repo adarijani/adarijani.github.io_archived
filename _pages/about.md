@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: MSc in Simulation Sciences, <a href='https://www.rwth-aachen.de/go/id/a/?lidx=1'> RWTH Aachen University </a>, <a href='https://goo.gl/maps/k26ohyjwZuf9Vt949'> Aachen, Germany </a>
+subtitle: BSc in Mathematical tehnical Software Development (MATSE), <a href='https://www.fh-aachen.de/en/'> FH Aachen - University of Applied Sciences  </a>, <a href='https://goo.gl/maps/k26ohyjwZuf9Vt949'> Aachen, Germany </a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p> <a href='mailto:ali.darijani.me@gmail.com'> ali.darijani.me@gmail.com </a> </p>
-    <p> <a href='tel:+4917642743283'> +4917642743283 </a> </p>
+    <p> <a href='mailto:morteza.montahaee@outlook.com'> morteza.montahaee@outlook.com </a> </p>
+    <p> <a href='tel:+4917672124823'> +4917672124823 </a> </p>
     <p> <a href='https://goo.gl/maps/k26ohyjwZuf9Vt949'> Aachen, Germany </a> </p>
 
 news: true # includes a list of news items
