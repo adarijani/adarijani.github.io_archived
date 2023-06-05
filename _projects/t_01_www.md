@@ -9,27 +9,26 @@ category: teaching
 
 #### Search Engines
 
-- [Google](https://www.google.com/)
+* [Google](https://www.google.com/)
   * Advanced Google Search [pdf](https://kak.kornev-online.net/FILES/KAK%20-%2026%20Top%20Advanced%20Google%20Search%20Tips%20n%20Tricks%20and%20Techniques.pdf)
-- [bing](https://www.bing.com/)
-- [DuckDuckGo](https://duckduckgo.com/)
+* [DuckDuckGo](https://duckduckgo.com/)
+* [bing](https://www.bing.com/)
 
 #### Email Services
 
-- [Gmail](https://www.google.com/gmail/about/)
+* [Gmail](https://www.google.com/gmail/about/)
 
 #### Email Clients
 
-- [Thunderbird](https://www.thunderbird.net)
-- [Outlook](https://outlook.live.com/owa/)
+* [Thunderbird](https://www.thunderbird.net)
+* [Outlook](https://outlook.live.com/owa/)
 
 #### Cloud Services
 
-- [pCloud](https://www.pcloud.com/)
-- [iCloud](https://www.icloud.com/)
-- [Dropbox](https://www.dropbox.com/)
-- [Google Drive](https://www.google.com/drive/)
-- [sync](https://www.sync.com/)
+* [Sciebo](https://hochschulcloud.nrw/)
+* [pCloud](https://www.pcloud.com/)
+* [iCloud](https://www.icloud.com/)
+* [Dropbox](https://www.dropbox.com/)
+* [Google Drive](https://www.google.com/drive/)
+* [sync](https://www.sync.com/)
 
-
-continued:-)
