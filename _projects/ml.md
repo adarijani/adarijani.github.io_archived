@@ -7,11 +7,15 @@ importance: 12
 category: teaching
 ---
 
-#### References
+#### Nonrigorous References
 
 * Pattern Recognition and Machine Learning by Bishop [pdf](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 * Deep Learning by Goodfellow, Bengio, and Courville [Link](https://www.deeplearningbook.org/)
 
+#### Hands-On References
+
+* Deep Learning with Python by Chollet [Link](https://www.manning.com/books/deep-learning-with-python-second-edition)
+* Deep Learning with PyTorch by [Link](https://www.manning.com/books/deep-learning-with-pytorch)
 
 #### Tools for Experimentation
 
