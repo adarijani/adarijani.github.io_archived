@@ -14,6 +14,6 @@ children:
     - title: stack exchange
       permalink: https://stackexchange.com/
     - title: divider
-    - title: Linux Professional Institute
-      permalink: https://www.lpi.org
+    - title: YouTube
+      permalink: https://www.youtube.com
 ---
