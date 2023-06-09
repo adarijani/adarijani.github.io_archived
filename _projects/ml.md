@@ -9,12 +9,16 @@ category: teaching
 
 #### References
 
+* Pattern Recognition and Machine Learning by Bishop [pdf](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
+* Deep Learning by Goodfellow, Bengio, and Courville [Link](https://www.deeplearningbook.org/)
 
 
 #### Tools for Experimentation
 
 * NumPy [Link](https://numpy.org/)
+* pandas [Link](https://pandas.pydata.org/)
 * SciPy [Link](https://scipy.org/)
+* scikit-learn [Link](https://scikit-learn.org/stable/)
 * scikit-image [Link](https://scikit-image.org/)
 * TensorFlow [Link](https://www.tensorflow.org/)
 * Keras [Link](https://keras.io/)
