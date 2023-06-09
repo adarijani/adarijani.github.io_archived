@@ -18,15 +18,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Mechanical Engineer turned Simulation Scientist turned ML Engineer. Generally interested in Numerical Math be it deterministic or stochastic and its implementation in a high-performance fashion.  
-    Likes [Darwin](https://github.com/apple/darwin-xnu) and in turn [MacBooks](https://www.apple.com/mac/).
- His Five:-) horsemen of the Apocalypse are the [said OS](https://github.com/apple/darwin-xnu), [zsh](https://www.zsh.org), [Alacritty](https://alacritty.org/), [tmux](https://github.com/tmux/), and [vim](https://www.vim.org) for handling the workflow.  
+Mechanical Engineer turned Simulation Scientist turned Mathematician. Quite expectedly enjoys projects that call for both math and programming. Is well versed to a certain degree in what is known as [Mathematical Aalysis](https://en.wikipedia.org/wiki/Mathematical_analysis) and scientific programming languages like C, C++, Python, Julia and will abandon ship if necessary.       
+    Likes [Darwin](https://github.com/apple/darwin-xnu)/ [Linux](https://www.kernel.org/) and in turn [MacBooks](https://www.apple.com/mac/)/[system76](https://system76.com/).
+ His Five:-) horsemen of the Apocalypse are the [said OSs], [zsh](https://www.zsh.org), [Alacritty](https://alacritty.org/), [tmux](https://github.com/tmux/), and [vim](https://www.vim.org) for handling the basic workflow.  
 Owes a great debt to [S. Shahshahani](http://sharif.ir/~shahshah/), [M. Jalali](https://sites.google.com/site/mirabbasjalali/home?pli=1), [S. Rezaei](http://sina.sharif.edu/~srezaei/), [M. Itskov](https://www.km.rwth-aachen.de/cms/KM/Das-Lehr-und-Forschungsgebiet/Team/Leitung/~qpvr/Mikhail-Itskov/?allou=1&mobile=1&lidx=1), [N. Tager](https://www.sz.rwth-aachen.de/cms/SZ/Das-Sprachenzentrum/Unser-Team/~iinn/Mitarbeiter-CAMPUS-/?gguid=0x446EA780660F524D9C00FBBD05DBC761&allou=1), and finally [B. Berkels](https://www.igpm.rwth-aachen.de/team/berkels).
-
-
-
-
-
 
 
 
