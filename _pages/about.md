@@ -26,23 +26,33 @@ Owes a great debt to [S. Shahshahani](http://sharif.ir/~shahshah/), [M. Jalali](
 
 
 ##### Short/Extended Resume
-[short resume](https://raw.githubusercontent.com/adarijani/job_hunting/main/LaTeX_templates/short_resume/short_resume.pdf)  
-[extended resume](https://raw.githubusercontent.com/adarijani/job_hunting/main/LaTeX_templates/extended_resume/resume.pdf)
+
+* [short resume](https://raw.githubusercontent.com/adarijani/job_hunting/main/LaTeX_templates/short_resume/short_resume.pdf)  
+* [extended resume](https://raw.githubusercontent.com/adarijani/job_hunting/main/LaTeX_templates/extended_resume/resume.pdf)
+
 ##### Degrees and Transcripts
-[BSc Degree]({{ site.url }}/assets/pdf/BSc_degree.pdf)  
-[Bachelor Transcripts]({{ site.url }}/assets/pdf/Transcripts_bachelor.pdf)  
-[Master Transcripts]({{ site.url }}/assets/pdf/Transcripts_master.pdf)  
+
+* [BSc Degree]({{ site.url }}/assets/pdf/BSc_degree.pdf)  
+* [Bachelor Transcripts]({{ site.url }}/assets/pdf/Transcripts_bachelor.pdf)  
+* [Master Transcripts]({{ site.url }}/assets/pdf/Transcripts_master.pdf)  
+
 ##### Programming Certificates
-[C++ by Dr. Klaus Iglberger]({{ site.url }}/assets/pdf/C++22.pdf)  
-[Kaggle(All)]({{ site.url }}/assets/pdf/kaggle.pdf)  
+
+* [C++ by Dr. Klaus Iglberger]({{ site.url }}/assets/pdf/C++22.pdf)  
+* [Machine Learning by TU Darmstadt]({{ site.url }}/assets/pdf/ali_darijani_machine_darmstadt.pdf)  
+* [Kaggle(All)]({{ site.url }}/assets/pdf/kaggle.pdf)  
+
 ##### English Certificates
-[TOEFL(Test of English as a Foreign Language) by ETS]({{ site.url }}/assets/pdf/TOEFL.pdf)  
-[GRE(Graduate Record Examinations) by ETS]({{ site.url }}/assets/pdf/GRE.pdf)  
-[CAE Preparation Course by RWTH Aachen University]({{ site.url }}/assets/pdf/english_certificate_c1_CAE_preparation_course.pdf)  
-[Advanced English for Academic Purposes by RWTH Aachen University]({{ site.url }}/assets/pdf/english_certificate_c1_advanced_academic_english.pdf)  
+
+* [TOEFL(Test of English as a Foreign Language) by ETS]({{ site.url }}/assets/pdf/TOEFL.pdf)  
+* [GRE(Graduate Record Examinations) by ETS]({{ site.url }}/assets/pdf/GRE.pdf)  
+* [CAE Preparation Course by RWTH Aachen University]({{ site.url }}/assets/pdf/english_certificate_c1_CAE_preparation_course.pdf)  
+* [Advanced English for Academic Purposes by RWTH Aachen University]({{ site.url }}/assets/pdf/english_certificate_c1_advanced_academic_english.pdf)  
+
 ##### Letters of Recommendation
-[Prof. Mohammad Behshad Shafii of Sharif University of Technology]({{ site.url }}/assets/pdf/letter_of_recommendation_01.pdf)  
-[Prof. Ali Moosavi of Sharif University of Technology]({{ site.url }}/assets/pdf/letter_of_recommendation_02.pdf)  
+
+* [Prof. Mohammad Behshad Shafii of Sharif University of Technology]({{ site.url }}/assets/pdf/letter_of_recommendation_01.pdf)  
+* [Prof. Ali Moosavi of Sharif University of Technology]({{ site.url }}/assets/pdf/letter_of_recommendation_02.pdf)  
 
 
 
