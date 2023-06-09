@@ -8,7 +8,7 @@ children:
     - title: google
       permalink: https://google.com
     - title: divider
-    - title: WIKIPEDIA
+    - title: Wikipedia
       permalink: https://www.wikipedia.org
     - title: divider
     - title: stack exchange
