@@ -5,6 +5,7 @@ github_users:
   - nicm
 github_repos:
   - torvalds/linux
+  - apple-oss-distributions/xnu
   - vim/vim
   - alacritty/alacritty
   - tmux/tmux
