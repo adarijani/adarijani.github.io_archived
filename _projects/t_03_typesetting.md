@@ -9,6 +9,14 @@ category: teaching
 
 #### References
 
+##### TeX
+
+* TeX Users Group [Link](https://tug.org/)
+* The Comprehensive TeX Archive Network [Link](https://ctan.org/)
+
+##### LaTeX
+
+
 - The Markdown Guide by Cone [Link](https://www.markdownguide.org/book/)
 - GitHub flavored Markdown [short](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) *** [long](https://github.github.com/gfm/)
 - AsciiDoc [Link](https://asciidoc.org)
