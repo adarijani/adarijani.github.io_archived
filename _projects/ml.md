@@ -15,7 +15,7 @@ category: teaching
 #### Hands-On References
 
 * Deep Learning with Python by Chollet [Link](https://www.manning.com/books/deep-learning-with-python-second-edition)
-* Deep Learning with PyTorch by [Link](https://www.manning.com/books/deep-learning-with-pytorch)
+* Deep Learning with PyTorch by Stevens, Antiga, and Viehmann [Link](https://www.manning.com/books/deep-learning-with-pytorch)
 
 #### Tools for Experimentation
 
