@@ -7,9 +7,13 @@ importance: 3
 category: teaching
 ---
 
-#### References
+### TeX
 
-##### TeX
+#### Books
+
+* The \TeX Book by Donald Knuth
+   
+#### Sites/Online Materials
 
 * TeX Users Group [Link](https://tug.org/)
 * The Comprehensive TeX Archive Network [Link](https://ctan.org/)
