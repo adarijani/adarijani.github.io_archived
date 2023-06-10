@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://en.wikipedia.org/wiki/Master_of_Science'> MSc </a> in <a href='https://www.rwth-aachen.de/cms/root/studium/Vor-dem-Studium/Studiengaenge/Liste-Aktuelle-Studiengaenge/Studiengangbeschreibung/~bnzu/Simulation-Sciences-M-Sc/?lidx=1'> Simulation Sciences </a>, <a href='https://www.rwth-aachen.de/go/id/a/?lidx=1'> RWTH Aachen University </a>, <a href='https://goo.gl/maps/k26ohyjwZuf9Vt949'> Aachen, Germany </a>
+subtitle: <a href='https://en.wikipedia.org/wiki/Master_of_Science'> MSc </a> in <a href='https://www.rwth-aachen.de/cms/root/studium/Vor-dem-Studium/Studiengaenge/Liste-Aktuelle-Studiengaenge/Studiengangbeschreibung/~bnzu/Simulation-Sciences-M-Sc/?lidx=1'> Simulation Sciences </a> from <a href='https://www.rwth-aachen.de/go/id/a/?lidx=1'> RWTH Aachen University </a>, <a href='https://goo.gl/maps/k26ohyjwZuf9Vt949'> Aachen, Germany </a>
 
 profile:
   align: right
