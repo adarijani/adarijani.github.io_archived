@@ -11,7 +11,7 @@ category: teaching
 
 #### Books
 
-* The \TeX Book by Donald Knuth
+* The \TeXbook by Donald Knuth
    
 #### Sites/Online Materials
 
