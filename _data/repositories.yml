@@ -1,5 +1,10 @@
 github_users:
-  - adarijani
+  - torvalds
+  - brammool
+  - jwilm
+  - nicm
 github_repos:
-  - adarijani/adarijani.github.io
-  - adarijani/book_pandoc_template
+  - torvalds/linux
+  - vim/vim
+  - alacritty/alacritty
+  - tmux/tmux
