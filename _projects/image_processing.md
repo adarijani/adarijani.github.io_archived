@@ -17,16 +17,13 @@ category: teaching
 * Mathematical Problems in Image Processing by Aubert, Kornprobst [Link](https://link.springer.com/book/10.1007/978-0-387-44588-5)
 * Image Processing and Analysis by Chan, Shen [Link](https://epubs.siam.org/doi/book/10.1137/1.9780898717877)
 * Digital Image Processing by Gonzalez and Woods [Link](https://www.pearson.com/en-us/subject-catalog/p/digital-image-processing/P200000003224?view=educator)
-
-#### Hands-on References
-
-* Deep Learning with Python by Chollet [Link](https://www.oreilly.com/library/view/deep-learning-with/9781617296864/)
-* Deep Learning with PyTorch by Stevens, Antiga, and Viehmann [Link](https://www.oreilly.com/library/view/deep-learning-with/9781617295263AU/)
  
 #### Tools for Experimentation
 
 * NumPy [Link](https://numpy.org/)
 * SciPy [Link](https://scipy.org/)
+* pandas [Link](https://pandas.pydata.org/)
+* Matplotlib [Link](https://matplotlib.org/)
 * scikit-image [Link](https://scikit-image.org/)
 * OpenCV [Link](https://opencv.org/)
 * ImageJ [Link](https://imagej.net/)
