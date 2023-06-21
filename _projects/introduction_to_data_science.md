@@ -14,11 +14,13 @@ category: teaching
 
 #### Programming Frameworks
 
-- python [Link](https://www.python.org/)
-- conda [Link](https://docs.conda.io/en/latest/)
-- ipython [Link](https://ipython.org/)
-- numpy [Link](https://numpy.org/)
-- pandas [Link](https://pandas.pydata.org/)
-- matplotlib [Link](https://matplotlib.org/)
-- TensorFlow [Link](https://www.tensorflow.org/)
-- Keras [Link](https://keras.io/)
+* python [Link](https://www.python.org/)
+* mamba [Link](https://mamba.readthedocs.io/en/latest/)
+* ipython [Link](https://ipython.org/)
+* numpy [Link](https://numpy.org/)
+* SciPy [Link](https://scipy.org/)
+* pandas [Link](https://pandas.pydata.org/)
+* matplotlib [Link](https://matplotlib.org/)
+* TensorFlow [Link](https://www.tensorflow.org/)
+* Keras [Link](https://keras.io/)
+* PyTorch [Link](https://pytorch.org/)
