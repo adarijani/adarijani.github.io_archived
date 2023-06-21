@@ -25,7 +25,7 @@ category: teaching
 * USB flash installation medium [Link](https://wiki.archlinux.org/title/USB_flash_installation_medium)
 * SSH Key Generation [Link](https://wiki.archlinux.org/title/SSH_keys)
 * SLURM Workload Manager [Link](https://slurm.schedmd.com/)
-* Linux from Scratch [Link](https://www.linuxfromscratch.org/lfs/downloads/stable/LFS-BOOK-11.2.pdf)
+* Linux from Scratch [Link](https://www.linuxfromscratch.org/lfs/downloads/stable/LFS-BOOK-11.3.pdf)
 * Filesystem Hierarchy Standard [pdf](https://refspecs.linuxfoundation.org/FHS_3.0/fhs-3.0.pdf)
 * DistroWatch [Link](https://distrowatch.com/)
 
