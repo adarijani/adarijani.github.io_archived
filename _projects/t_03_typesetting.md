@@ -33,7 +33,6 @@ category: teaching
 * TeX Users Group [Link](https://tug.org/)
 * The Comprehensive TeX Archive Network [Link](https://ctan.org/)
 * online \LaTeX compiler and editor: overleaf [Link](https://www.overleaf.com/)
-* MacTeX [Link](https://tug.org/mactex/)
 
 #### Markdown and AsciiDoc
 
