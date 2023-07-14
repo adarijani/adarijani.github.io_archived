@@ -27,7 +27,7 @@ Owes a great debt to [S. Shahshahani](http://sharif.ir/~shahshah/), [M. Jalali](
 
 ##### Short/Extended Resume
 
-* [short resume](https://raw.githubusercontent.com/adarijani/job_hunting/main/LaTeX_templates/short_resume/short_resume.pdf)  
+* [short resume](https://raw.githubusercontent.com/adarijani/job_hunting/main/LaTeX_templates/short_resume/main.pdf)  
 * [extended resume](https://raw.githubusercontent.com/adarijani/job_hunting/main/LaTeX_templates/extended_resume/resume.pdf)
 
 ##### Degrees and Transcripts
