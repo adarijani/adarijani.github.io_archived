@@ -12,20 +12,21 @@ category: teaching
 #### Books
 
 * The \TeXbook by Donald Knuth [Link](https://www.ctan.org/pkg/texbook?lang=en)
-* LaTeX: A Document Preparation System, 2nd Edition by Leslie Lamport [Link](https://www.informit.com/store/latex-a-document-preparation-system-9780201529838?ranMID=24808)
-* LaTeX Beginner’s Guide, 2nd Edition by Stefan Kottwitz [Link](https://www.oreilly.com/library/view/latex-beginners-guide/9781801078658/)
-* LaTeX Graphics with TikZ by Stefan Kottwitz [Link](https://www.oreilly.com/library/view/latex-graphics-with/9781804618233/)
-* The Not So Short Introduction to LaTeX [Link](https://tobi.oetiker.ch/lshort/lshort.pdf)
-* Practical LaTeX by Grätzer [Link](https://link.springer.com/book/10.1007/978-3-319-06425-3)
-* More Math Into LaTeX by Grätzer [Link](https://link.springer.com/book/10.1007/978-3-319-23796-1)
-* The LaTeX Companion: Parts I & II, 3rd Edition by Frank Mittelbach, Ulrike Fischer [Link](https://www.informit.com/store/latex-companion-parts-i-ii-3rd-edition-9780138166489?ranMID=24808)
-* The LaTeX Graphics Companion, 2nd edition by Michel Goossens, Frank Mittelbach, Sebastian Rahtz, Denis Roegel, Herbert Voß [Link](https://www.lehmanns.de/shop/mathematik-informatik/58611042-9783965433038-the-latex-graphics-companion)
+* \LaTeX: A Document Preparation System, 2nd Edition by Leslie Lamport [Link](https://www.informit.com/store/latex-a-document-preparation-system-9780201529838?ranMID=24808)
+* Learning \LaTeX, Second Edition by Griffiths and Higham [Link](https://dl.acm.org/doi/book/10.5555/3074073)
+* The Not So Short Introduction to \LaTeX [Link](https://tobi.oetiker.ch/lshort/lshort.pdf)
+* Practical \LaTeX by Grätzer [Link](https://link.springer.com/book/10.1007/978-3-319-06425-3)
+* \LaTeX Beginner’s Guide, 2nd Edition by Stefan Kottwitz [Link](https://www.oreilly.com/library/view/latex-beginners-guide/9781801078658/)
+* \LaTeX Graphics with TikZ by Stefan Kottwitz [Link](https://www.oreilly.com/library/view/latex-graphics-with/9781804618233
+* More Math Into \LaTeX by Grätzer [Link](https://link.springer.com/book/10.1007/978-3-319-23796-1)
+* The \LaTeX Companion: Parts I & II, 3rd Edition by Frank Mittelbach, Ulrike Fischer [Link](https://www.informit.com/store/latex-companion-parts-i-ii-3rd-edition-9780138166489?ranMID=24808)
+* The \LaTeX Graphics Companion, 2nd edition by Michel Goossens, Frank Mittelbach, Sebastian Rahtz, Denis Roegel, Herbert Voß [Link](https://www.lehmanns.de/shop/mathematik-informatik/58611042-9783965433038-the-latex-graphics-companion)
    
 #### Sites/Online Materials
 
-* TeX Users Group [Link](https://tug.org/)
+* \TeX Users Group [Link](https://tug.org/)
 * \LaTeX project [Link](https://www.latex-project.org/)
-* The Comprehensive TeX Archive Network [Link](https://ctan.org/)
+* The Comprehensive \TeX Archive Network [Link](https://ctan.org/)
 * online \LaTeX compiler and editor: overleaf [Link](https://www.overleaf.com/)
 
 ### Markdown and AsciiDoc
