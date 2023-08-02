@@ -14,7 +14,7 @@ category: teaching
 * The \TeXbook by Donald Knuth [Link](https://www.ctan.org/pkg/texbook?lang=en)
 * \LaTeX: A Document Preparation System, 2nd Edition by Leslie Lamport [Link](https://www.informit.com/store/latex-a-document-preparation-system-9780201529838?ranMID=24808)
 * Learning \LaTeX, Second Edition by Griffiths and Higham [Link](https://dl.acm.org/doi/book/10.5555/3074073)
-* The Not So Short Introduction to \LaTeX [Link](https://tobi.oetiker.ch/lshort/lshort.pdf)
+* The Not So Short Introduction to \LaTeX [Link](https://packages.oth-regensburg.de/ctan/info/lshort/english/lshort.pdf)
 * Practical \LaTeX by Grätzer [Link](https://link.springer.com/book/10.1007/978-3-319-06425-3)
 * \LaTeX Beginner’s Guide, 2nd Edition by Stefan Kottwitz [Link](https://www.oreilly.com/library/view/latex-beginners-guide/9781801078658/)
 * \LaTeX Graphics with TikZ by Stefan Kottwitz [Link](https://www.oreilly.com/library/view/latex-graphics-with/9781804618233/)
