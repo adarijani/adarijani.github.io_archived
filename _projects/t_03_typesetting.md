@@ -32,6 +32,11 @@ category: teaching
 * online \LaTeX compiler and editor: overleaf [Link](https://www.overleaf.com/)
 * \TeX stackexchange [Link](https://tex.stackexchange.com/)
 
+#### Misc
+
+* LaTeX editors [tex.exchange](https://tex.stackexchange.com/questions/339/latex-editors-ides), [wikipedia](https://en.wikipedia.org/wiki/Comparison_of_TeX_editors)
+* Reference Management Softwares [wikipedia](https://en.wikipedia.org/wiki/Comparison_of_reference_management_software) 
+
 ### Markdown and AsciiDoc
 
 * The Markdown Guide by Cone [Link](https://www.markdownguide.org/book/)
