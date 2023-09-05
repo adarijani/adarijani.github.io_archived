@@ -11,7 +11,7 @@ category: teaching
 
 - Linear Algebra Done Right [Link](https://link.springer.com/book/10.1007/978-3-319-11080-6)
 - Linear Algebra by Petersen [Link](https://link.springer.com/book/10.1007/978-1-4614-3612-6)
-- Applied Linear Algebra and Matrix Analysis by Shores [Link](https://link.springer.com/book/10.1007/978-3-319-74748-4ol)
+- Applied Linear Algebra and Matrix Analysis by Shores [Link](https://link.springer.com/book/10.1007/978-3-319-74748-4)
 - Applied Linear Algebra by Olver and Shakiban [Link](https://link.springer.com/book/10.1007/978-3-319-91041-3)
 - Advanced Linear Algebra by Roman [Link](https://link.springer.com/book/10.1007/978-0-387-72831-5)
 
