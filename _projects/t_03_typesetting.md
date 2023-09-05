@@ -58,7 +58,7 @@ category: teaching
 * beamer [Link](https://ctan.org/pkg/beamer)
 * bib\TeX [Link](https://ctan.org/pkg/bibtex)
 * bib\LaTeX [Link](https://ctan.org/pkg/biblatex)
-* makeindex [Link](makeindex)
+* makeindex [Link](https://ctan.org/pkg/makeindex)
 
 
 ### Markdown and AsciiDoc
