@@ -52,7 +52,7 @@ category: teaching
 * Leslie Lamport [Link](https://www.ctan.org/author/lamport)
 * \LaTeX [Link](https://ctan.org/pkg/latex)
 * \LaTeX project Team [Link](https://www.ctan.org/author/latex)
-* graphicx [Link](graphicx)
+* graphicx [Link](https://ctan.org/pkg/graphicx)
 * PGF/TikZ [Link](https://www.ctan.org/pkg/pgf)
 * American Mathematical Society [Link](https://ctan.org/author/ams)
 * beamer [Link](https://ctan.org/pkg/beamer)
