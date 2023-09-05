@@ -42,6 +42,8 @@ category: teaching
 * Reference Management Softwares [wikipedia](https://en.wikipedia.org/wiki/Comparison_of_reference_management_software)
    - JabRef [Link](https://www.jabref.org/)
    - BibDesk [Link](https://bibdesk.sourceforge.io/)
+   - Zotero [Link](https://www.zotero.org/)
+   - Mendeley [Link](https://www.mendeley.com)
 
 #### Important Packages and Maintainers
 
