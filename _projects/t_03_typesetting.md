@@ -55,10 +55,11 @@ category: teaching
 * graphicx [Link](graphicx)
 * PGF/TikZ [Link](https://www.ctan.org/pkg/pgf)
 * American Mathematical Society [Link](https://ctan.org/author/ams)
+* beamer [Link](https://ctan.org/pkg/beamer)
 * bib\TeX [Link](https://ctan.org/pkg/bibtex)
 * bib\LaTeX [Link](https://ctan.org/pkg/biblatex)
 * makeindex [Link](makeindex)
-* beamer [Link](https://ctan.org/pkg/beamer)
+
 
 ### Markdown and AsciiDoc
 
