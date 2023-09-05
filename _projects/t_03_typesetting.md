@@ -47,10 +47,18 @@ category: teaching
 
 #### Important Packages and Maintainers
 
+* Donal Knuth [Link](https://www.ctan.org/author/knuth)
+* \TeX [Link](https://ctan.org/pkg/tex)
+* Leslie Lamport [Link](https://www.ctan.org/author/lamport)
+* \LaTeX [Link](https://ctan.org/pkg/latex)
+* \LaTeX project Team [Link](https://www.ctan.org/author/latex)
+* graphicx [Link](graphicx)
+* PGF/TikZ [Link](https://www.ctan.org/pkg/pgf)
 * American Mathematical Society [Link](https://ctan.org/author/ams)
 * bib\TeX [Link](https://ctan.org/pkg/bibtex)
 * bib\LaTeX [Link](https://ctan.org/pkg/biblatex)
 * makeindex [Link](makeindex)
+* beamer [Link](https://ctan.org/pkg/beamer)
 
 ### Markdown and AsciiDoc
 
