@@ -35,7 +35,20 @@ category: teaching
 #### Misc
 
 * LaTeX editors [tex.exchange](https://tex.stackexchange.com/questions/339/latex-editors-ides), [wikipedia](https://en.wikipedia.org/wiki/Comparison_of_TeX_editors)
-* Reference Management Softwares [wikipedia](https://en.wikipedia.org/wiki/Comparison_of_reference_management_software) 
+   - VSCode [Link](https://code.visualstudio.com/) + \LaTeX extension [Link](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop)
+   - \TeX maker [Link](https://www.xm1math.net/texmaker/)
+   - \TeX studio [Link](https://www.texstudio.org/)
+   - \TeX works [Link](https://www.tug.org/texworks/)
+* Reference Management Softwares [wikipedia](https://en.wikipedia.org/wiki/Comparison_of_reference_management_software)
+   - JabRef [Link](https://www.jabref.org/)
+   - BibDesk [Link](https://bibdesk.sourceforge.io/)
+
+#### Important Packages and Maintainers
+
+* American Mathematical Society [Link](https://ctan.org/author/ams)
+* bib\TeX [Link](https://ctan.org/pkg/bibtex)
+* bib\LaTeX [Link](https://ctan.org/pkg/biblatex)
+* makeindex [Link](makeindex)
 
 ### Markdown and AsciiDoc
 
