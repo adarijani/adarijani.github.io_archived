@@ -63,6 +63,7 @@ category: teaching
 * American Mathematical Society [Link](https://ctan.org/author/ams)
 * beamer [Link](https://ctan.org/pkg/beamer)
 * bib\TeX [Link](https://ctan.org/pkg/bibtex)
+* biber [Link](https://ctan.org/pkg/biber)
 * bib\LaTeX [Link](https://ctan.org/pkg/biblatex)
 * makeindex [Link](https://ctan.org/pkg/makeindex)
 
