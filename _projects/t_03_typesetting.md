@@ -34,6 +34,12 @@ category: teaching
 
 #### Misc
 
+* \TeX and \LaTeX engines
+   - \Tex [Link](https://ctan.org/pkg/tex)
+   - pdf\Tex [Link](https://ctan.org/pkg/pdftex)
+   - Lua\TeX [Link](https://ctan.org/pkg/luatex)
+   - Xe\TeX [Link](https://ctan.org/pkg/xetex)
+
 * LaTeX editors [tex.exchange](https://tex.stackexchange.com/questions/339/latex-editors-ides), [wikipedia](https://en.wikipedia.org/wiki/Comparison_of_TeX_editors)
    - VSCode [Link](https://code.visualstudio.com/) + \LaTeX extension [Link](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop)
    - \TeX maker [Link](https://www.xm1math.net/texmaker/)
