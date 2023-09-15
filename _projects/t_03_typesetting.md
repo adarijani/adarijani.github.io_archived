@@ -30,6 +30,9 @@ category: teaching
 * \LaTeX project [Link](https://www.latex-project.org/)
 * The Comprehensive \TeX Archive Network [Link](https://ctan.org/)
 * online \LaTeX compiler and editor: overleaf [Link](https://www.overleaf.com/)
+* \TeX-ample [Link](https://texample.net/)
+* Tikz.net [Link](https://tikz.net/)
+* pgfplot.net [Link](https://pgfplots.net/)
 * \TeX stackexchange [Link](https://tex.stackexchange.com/)
 
 #### Misc
@@ -60,6 +63,7 @@ category: teaching
 * \LaTeX project Team [Link](https://www.ctan.org/author/latex)
 * graphicx [Link](https://ctan.org/pkg/graphicx)
 * PGF/TikZ [Link](https://www.ctan.org/pkg/pgf)
+* Pgfplots [Link](https://ctan.org/pkg/pgfplots)
 * American Mathematical Society [Link](https://ctan.org/author/ams)
 * beamer [Link](https://ctan.org/pkg/beamer)
 * bib\TeX [Link](https://ctan.org/pkg/bibtex)
