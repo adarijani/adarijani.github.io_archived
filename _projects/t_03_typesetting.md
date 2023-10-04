@@ -73,6 +73,9 @@ category: teaching
 * biber [Link](https://ctan.org/pkg/biber)
 * bib\LaTeX [Link](https://ctan.org/pkg/biblatex)
 * makeindex [Link](https://ctan.org/pkg/makeindex)
+* acro [Link](https://ctan.org/pkg/acro)
+* listings [Link](https://ctan.org/pkg/listings)
+* algorithm2e [Link](https://ctan.org/pkg/algorithm2e)
 
 
 ### Markdown and AsciiDoc
