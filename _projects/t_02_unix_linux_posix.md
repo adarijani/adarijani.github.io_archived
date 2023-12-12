@@ -18,6 +18,8 @@ category: teaching
 * Pro GIT [Link](https://github.com/progit/progit2/releases/download/2.1.360/progit.pdf)
 
 #### Details/Online/Wiki Style
+* Debian Documentation [Link](https://www.debian.org/doc/)
+* Red Hat Enterprise Linux Documentation [Link](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/9)
 * Arch Wiki [Link](https://wiki.archlinux.org/)
 * HPC WIKI Effort of NRW in Germany [Link](https://hpc-wiki.info/hpc/HPC_Wiki)
 
@@ -37,15 +39,19 @@ category: teaching
 * Open Sources 2.0 by Legends of Open Source [Link](https://www.oreilly.com/library/view/open-sources-20/0596008023/)
 
 #### My Horsemen of the Apocalypse
-* Hardware: [Apple](https://www.apple.com/mac/) , [system76](https://system76.com/)
+* Hardware: [Apple](https://www.apple.com/mac/), [system76](https://system76.com/), [Tuxedo Computers](https://www.tuxedocomputers.com/), [StarLabs Systems](https://de.starlabs.systems/), [Framework](https://frame.work/de/en) 
 * An Online Linux Terminal Emulator: [JSLinux](https://bellard.org/jslinux/)  
 * Hypervisor: [VirtualBox](https://www.virtualbox.org/), [UTM](https://mac.getutm.app/)
 * OS: [Darwin](https://github.com/apple/darwin-xnu) , [Linux](https://www.kernel.org/)
-* Package Manager: [brew](https://brew.sh/) , [pacman](https://archlinux.org/pacman/)
+* Package Manager: [brew](https://brew.sh/), [apt](https://wiki.debian.org/Apt), [pacman](https://archlinux.org/pacman/),
 * Terminal Emulator: [Alacritty](https://alacritty.org/), [kitty](https://sw.kovidgoyal.net/kitty/), [WezTerm](https://wezfurlong.org/wezterm/)
-* Interactive Shell: [zsh](https://www.zsh.org/) Scripting Shell: [bash](https://www.gnu.org/software/bash/)
+* Shell
+  - Interactive: [zsh](https://www.zsh.org/)
+  - Scripting: [bash](https://www.gnu.org/software/bash/)
 * Zsh Configuration Framework: [ohmyzsh](https://ohmyz.sh/)
-* Terminal Text Editor: [vim](https://www.vim.org/) GUI Text Editor: [Visual Studio Code](https://code.visualstudio.com/)
+* Text Editor:
+  - Terminal Based: [vim](https://www.vim.org/)
+  - GUI Based: [Visual Studio Code](https://code.visualstudio.com/)
 * Terminal Multiplexer: [tmux](https://github.com/tmux)
 * GUI Based Double Pane File Manager: [Double Commander](https://doublecmd.sourceforge.io/)
 * Modern Linux Tools: [Modern Linux](https://github.com/ibraheemdev/modern-unix)
