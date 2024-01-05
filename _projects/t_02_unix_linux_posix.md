@@ -12,16 +12,16 @@ category: teaching
 * LPI Linux Essentials [pdf](https://learning.lpi.org/pdfstore/LPI-Learning-Material-010-160-en.pdf)
 * LPI Web Development Essentials [pdf](https://learning.lpi.org/pdfstore/LPI-Learning-Material-030-100-en.pdf)
 * LPI LPIC-1 Exam 101 [pdf](https://learning.lpi.org/pdfstore/LPI-Learning-Material-101-500-en.pdf)
-* LPI LPIC-1 Exam 101 [pdf](https://learning.lpi.org/pdfstore/LPI-Learning-Material-102-500-en.pdf)  
-* The LPIC2 Exam Prep [pdf](https://lpic2book.github.io/src/pdf/lpic2book.pdf)
+* LPI LPIC-1 Exam 102 [pdf](https://learning.lpi.org/pdfstore/LPI-Learning-Material-102-500-en.pdf)  
+* The LPIC-2 Exam Prep [pdf](https://lpic2book.github.io/src/pdf/lpic2book.pdf)
 * Practical LPIC-3 300 [Link](https://link.springer.com/book/10.1007/978-1-4842-4473-9)
-* Pro GIT [Link](https://github.com/progit/progit2/releases/download/2.1.360/progit.pdf)
 
 #### Details/Online/Wiki Style
-* Debian Documentation [Link](https://www.debian.org/doc/)
+
 * Red Hat Enterprise Linux Documentation [Link](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/9)
-* Arch Wiki [Link](https://wiki.archlinux.org/)
-* HPC WIKI Effort of NRW in Germany [Link](https://hpc-wiki.info/hpc/HPC_Wiki)
+* Debian Documentation [Link](https://www.debian.org/doc/)
+* Manjaro Linux wiki [Link](https://wiki.manjaro.org/index.php/Main_Page)
+* Arch Linux wiki [Link](https://wiki.archlinux.org/)
 
 #### Important Books/Pdfs/Links
 * USB flash installation medium [Link](https://wiki.archlinux.org/title/USB_flash_installation_medium)
