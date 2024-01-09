@@ -24,8 +24,11 @@ category: teaching
 * Arch Linux wiki [Link](https://wiki.archlinux.org/)
 
 #### Important Books/Pdfs/Links
-* USB flash installation medium [Link](https://wiki.archlinux.org/title/USB_flash_installation_medium)
-* SSH 
+* USB flash installation medium (adding multiple references for redundency)
+  * Arch wiki [Link](https://wiki.archlinux.org/title/USB_flash_installation_medium)
+  * Debian wiki [Link](https://wiki.debian.org/DebianInstaller/CreateUSBMedia)
+  * Red Hat wiki [Link](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/installation_guide/sect-making-usb-media)
+* SSH (adding multiple references for redundency) 
   * SSH with Arch narration [Link](https://wiki.archlinux.org/title/SSH_keys)
   * SSH with GitHub narration [Link](https://docs.github.com/en/authentication)
   * SSH with GitLab narration [Link](https://docs.gitlab.com/ee/user/ssh.html)
@@ -38,25 +41,27 @@ category: teaching
 * Unix: A History and a Memoir by Brian Kernighan [Link](https://www.cs.princeton.edu/~bwk/memoir.html)
 * Just for Fun by Linus Torvalds [Link](https://www.harpercollins.com/products/just-for-fun-linus-torvaldsdavid-diamond?variant=32118179364898)
 * Free Software, Free Society by Richard M. Stallman [pdf](https://www.gnu.org/doc/fsfs3-hardcover.pdf)
-* Open Sources by Legends of Open Source [pdf](https://smaldone.com.ar/documentos/libros/opensources.pdf)
-* Open Sources 2.0 by Legends of Open Source [Link](https://www.oreilly.com/library/view/open-sources-20/0596008023/)
+* Open Sources by THE Legends of Open Source [pdf](https://smaldone.com.ar/documentos/libros/opensources.pdf)
+* Open Sources 2.0 by THE Legends of Open Source [Link](https://www.oreilly.com/library/view/open-sources-20/0596008023/)
 
 #### My Horsemen of the Apocalypse
 * Hardware: [Apple](https://www.apple.com/mac/), [system76](https://system76.com/), [Tuxedo Computers](https://www.tuxedocomputers.com/), [StarLabs Systems](https://de.starlabs.systems/), [Framework](https://frame.work/de/en) 
 * An Online Linux Terminal Emulator: [JSLinux](https://bellard.org/jslinux/)  
 * Hypervisor: [VirtualBox](https://www.virtualbox.org/), [UTM](https://mac.getutm.app/)
 * OS: [Darwin](https://github.com/apple-oss-distributions/xnu) , [Linux](https://www.kernel.org/)
-* Package Manager: [brew](https://brew.sh/), [apt](https://wiki.debian.org/Apt), [pacman](https://archlinux.org/pacman/),
-* Terminal Emulator: [Alacritty](https://alacritty.org/), [kitty](https://sw.kovidgoyal.net/kitty/), [WezTerm](https://wezfurlong.org/wezterm/)
+* Package Manager: [brew](https://brew.sh/), [apt](https://wiki.debian.org/Apt), [apt-get](https://wiki.debian.org/apt-get), [pacman](https://archlinux.org/pacman/)
+* Terminal Emulator: [WezTerm](https://wezfurlong.org/wezterm/), [kitty](https://sw.kovidgoyal.net/kitty/), [Alacritty](https://alacritty.org/)  
 * Shell
-  - Interactive: [zsh](https://www.zsh.org/)
-  - Scripting: [bash](https://www.gnu.org/software/bash/)
+  * Interactive: [zsh](https://www.zsh.org/)
+  * Scripting: [bash](https://www.gnu.org/software/bash/)
 * Zsh Configuration Framework: [ohmyzsh](https://ohmyz.sh/)
 * Text Editor:
-  - Terminal Based: [vim](https://www.vim.org/)
-  - GUI Based: [Visual Studio Code](https://code.visualstudio.com/)
+  * Terminal Based: [vim](https://www.vim.org/)
+  * GUI Based: [Visual Studio Code](https://code.visualstudio.com/)
 * Terminal Multiplexer: [tmux](https://github.com/tmux)
-* GUI Based Double Pane File Manager: [Double Commander](https://doublecmd.sourceforge.io/)
+* File Manager
+  * CLI Based Double Pane File Manager: [Midnight Commander](https://midnight-commander.org/)
+  * GUI Based Double Pane File Manager: [Double Commander](https://doublecmd.sourceforge.io/)
 * Modern Linux Tools: [Modern Linux](https://github.com/ibraheemdev/modern-unix)
 
 
