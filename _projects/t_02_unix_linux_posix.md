@@ -45,7 +45,7 @@ category: teaching
 * Hardware: [Apple](https://www.apple.com/mac/), [system76](https://system76.com/), [Tuxedo Computers](https://www.tuxedocomputers.com/), [StarLabs Systems](https://de.starlabs.systems/), [Framework](https://frame.work/de/en) 
 * An Online Linux Terminal Emulator: [JSLinux](https://bellard.org/jslinux/)  
 * Hypervisor: [VirtualBox](https://www.virtualbox.org/), [UTM](https://mac.getutm.app/)
-* OS: [Darwin](https://github.com/apple/darwin-xnu) , [Linux](https://www.kernel.org/)
+* OS: [Darwin](https://github.com/apple-oss-distributions/xnu) , [Linux](https://www.kernel.org/)
 * Package Manager: [brew](https://brew.sh/), [apt](https://wiki.debian.org/Apt), [pacman](https://archlinux.org/pacman/),
 * Terminal Emulator: [Alacritty](https://alacritty.org/), [kitty](https://sw.kovidgoyal.net/kitty/), [WezTerm](https://wezfurlong.org/wezterm/)
 * Shell
