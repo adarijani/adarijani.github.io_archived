@@ -53,8 +53,8 @@ category: teaching
 * Terminal Emulator: [WezTerm](https://wezfurlong.org/wezterm/), [kitty](https://sw.kovidgoyal.net/kitty/), [Alacritty](https://alacritty.org/)  
 * Shell
   * Interactive: [zsh](https://www.zsh.org/)
+    * Zsh Configuration Framework: [ohmyzsh](https://ohmyz.sh/)
   * Scripting: [bash](https://www.gnu.org/software/bash/)
-* Zsh Configuration Framework: [ohmyzsh](https://ohmyz.sh/)
 * Text Editor:
   * Terminal Based: [vim](https://www.vim.org/)
   * GUI Based: [Visual Studio Code](https://code.visualstudio.com/)
@@ -62,7 +62,11 @@ category: teaching
 * File Manager
   * CLI Based Double Pane File Manager: [Midnight Commander](https://midnight-commander.org/)
   * GUI Based Double Pane File Manager: [Double Commander](https://doublecmd.sourceforge.io/)
-* Modern Linux Tools: [Modern Linux](https://github.com/ibraheemdev/modern-unix)
+* Modern Linux Tools
+  * [exa](https://github.com/ogham/exa)
+  * [lsd](https://github.com/lsd-rs/lsd)
+  * [bat](https://github.com/sharkdp/bat)
+  * [fzf](https://github.com/junegunn/fzf)
 
 
 
