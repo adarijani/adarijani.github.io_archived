@@ -7,17 +7,10 @@ importance: 3
 category: teaching
 ---
 
-#### General/Offline/Classic Style
+
+- [Python wiki](https://en.wikipedia.org/wiki/Python_(programming_language))
+- [Python official website](https://www.python.org/)
+- [mamba package manager](https://mamba.readthedocs.io/en/latest/)
 
 
 
-#### Details/Online/Wiki Style
-
-
-#### Important Books/Pdfs/Links
-
-
-#### Historical/Cultural References
-
-
-#### My Horsemen of the Apocalypse
