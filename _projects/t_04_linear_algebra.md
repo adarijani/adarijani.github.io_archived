@@ -2,7 +2,7 @@
 layout: page
 title: Linear Algebra
 description: Linear Algebra
-img: assets/img/svg/linear_algebra.svg
+# img: assets/img/svg/linear_algebra.svg
 importance: 4
 category: teaching
 ---

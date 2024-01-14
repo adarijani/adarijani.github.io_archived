@@ -2,7 +2,7 @@
 layout: page
 title: Continuum Mechanics
 description: Continuum Mechanics
-img: assets/img/svg/continuum_mechanics.svg
+# img: assets/img/svg/continuum_mechanics.svg
 importance: 12
 category: teaching
 ---

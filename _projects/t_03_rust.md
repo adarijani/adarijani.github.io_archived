@@ -2,7 +2,7 @@
 layout: page
 title: Rust Lang
 description: Rust Lang
-img: assets/img/svg/rust.svg
+# img: assets/img/svg/rust.svg
 importance: 3
 category: teaching
 ---

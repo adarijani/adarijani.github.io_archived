@@ -2,7 +2,7 @@
 layout: page
 title: MBA; Self Taught
 description:  MBA; Self Taught
-img: assets/img/svg/mba.svg
+# img: assets/img/svg/mba.svg
 importance: 1
 category: ongoing
 ---

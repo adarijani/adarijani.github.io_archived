@@ -2,7 +2,7 @@
 layout: page
 title: Calculus
 description: Calculus
-img: assets/img/svg/calculus.svg
+# img: assets/img/svg/calculus.svg
 importance: 3
 category: teaching
 ---

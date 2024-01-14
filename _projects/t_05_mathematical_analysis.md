@@ -2,7 +2,7 @@
 layout: page
 title: Mathematical Analysis
 description:  Mathematical Analysis
-img: assets/img/svg/analysis.svg
+# img: assets/img/svg/analysis.svg
 importance: 5
 category: teaching
 ---

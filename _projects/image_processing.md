@@ -2,7 +2,7 @@
 layout: page
 title: Image Processing
 description: Image Processing
-img: assets/img/gif/image_processing.gif
+# img: assets/img/gif/image_processing.gif
 importance: 12
 category: teaching
 ---

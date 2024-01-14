@@ -2,7 +2,7 @@
 layout: page
 title: Machine Learning
 description: Machine Learning
-img: assets/img/svg/ml.svg
+# img: assets/img/svg/ml.svg
 importance: 12
 category: teaching
 ---

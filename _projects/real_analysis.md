@@ -2,7 +2,7 @@
 layout: page
 title: Real Analysis
 description: Real Analysis
-img: assets/img/svg/real.svg
+# img: assets/img/svg/real.svg
 importance: 5
 category: teaching
 ---

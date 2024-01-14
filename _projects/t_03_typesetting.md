@@ -2,7 +2,7 @@
 layout: page
 title: Markdown, AsciiDoc, \TeX, and \LaTeX
 description: Markdown, AsciiDoc, TeX, and LaTeX
-img: assets/img/svg/tex.svg
+# img: assets/img/svg/tex.svg
 importance: 3
 category: teaching
 ---
