@@ -2,7 +2,7 @@
 layout: page
 title: Python
 description: Python
-img: assets/img/svg/python.svg
+# img: assets/img/svg/python.svg
 importance: 3
 category: teaching
 ---
