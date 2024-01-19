@@ -36,8 +36,7 @@ Owes a great debt to [S. Shahshahani](http://sharif.ir/~shahshah/), [M. Jalali](
 * [Bachelor Transcripts]({{ site.url }}/assets/pdf/Transcripts_bachelor.pdf)  
 * [Master Transcripts]({{ site.url }}/assets/pdf/Transcripts_master.pdf)
 * MSc Degree
-  * It takes a couple of months for the Univercity to prepare it. The transcripts show that I passed all the 120 ECTS required for the degree.
-    The ["4.0 certificate"]({{ site.url }}/assets/pdf/4.0_certificate.pdf) also shows that I passed my master thesis defence session.
+  * [temporary certificate of graduation]({{ site.url }}/assets/pdf/temp_degree_cert.pdf)
 
 ##### Programming Certificates
 
