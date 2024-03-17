@@ -27,16 +27,15 @@ Owes a great debt to [S. Shahshahani](http://sharif.ir/~shahshah/), [M. Jalali](
 
 ##### Short/Extended Resume
 
-* [short resume](https://raw.githubusercontent.com/adarijani/job_hunting/main/LaTeX_templates/short_resume/main.pdf)  
-* [extended resume](https://raw.githubusercontent.com/adarijani/job_hunting/main/LaTeX_templates/extended_resume/resume.pdf)
+* short resume(upon request)
+* extended resume(upon request)
 
 ##### Degrees and Transcripts
 
+* [MSc Degree]({{ site.url }}/assets/pdf/MSc_degree.pdf)
+* [Master Transcripts]({{ site.url }}/assets/pdf/Transcripts_master.pdf)
 * [BSc Degree]({{ site.url }}/assets/pdf/BSc_degree.pdf)  
 * [Bachelor Transcripts]({{ site.url }}/assets/pdf/Transcripts_bachelor.pdf)  
-* [Master Transcripts]({{ site.url }}/assets/pdf/Transcripts_master.pdf)
-* MSc Degree
-  * [temporary certificate of graduation]({{ site.url }}/assets/pdf/temp_degree_cert.pdf)
 
 ##### Programming Certificates
 
