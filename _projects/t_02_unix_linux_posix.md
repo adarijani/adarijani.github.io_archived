@@ -63,7 +63,7 @@ category: teaching
   * CLI Based Double Pane File Manager: [Midnight Commander](https://midnight-commander.org/)
   * GUI Based Double Pane File Manager: [Double Commander](https://doublecmd.sourceforge.io/)
 * Modern Linux Tools
-  * [exa](https://github.com/ogham/exa)
+  * [eza](https://github.com/eza-community/eza)
   * [lsd](https://github.com/lsd-rs/lsd)
   * [bat](https://github.com/sharkdp/bat)
   * [fzf](https://github.com/junegunn/fzf)
